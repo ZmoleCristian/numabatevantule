@@ -1,0 +1,195 @@
+# Historical-data pipeline for meteo_ro.
+#
+# WHY: meteoromania.ro sends no CORS headers, so the wasm build can't fetch it
+# directly. This workflow fetches the 4 endpoints server-side, commits the JSON
+# same-origin under data/, and deploys the site to GitHub Pages. Every commit
+# that touches data/ is one immutable snapshot -> the git history IS the
+# time-series DB the app browses via the GitHub REST API + raw.githubusercontent
+# (both send `access-control-allow-origin: *`). See docs/history.md.
+name: snapshot
+
+on:
+  # Hourly at :05 past (UTC -- GitHub cron is always UTC). Station obs are
+  # synoptic-hourly, so :05 clears the upstream publish lag. Forecast (daily)
+  # and alerts (event-driven) self-dedup via the commit-only-if-changed step.
+  schedule:
+    - cron: "5 * * * *"
+  # Manual trigger from the Actions tab.
+  workflow_dispatch:
+
+# snapshot job pushes a commit (contents: write); deploy job publishes Pages.
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Never run two deploys at once; do NOT cancel an in-flight deploy.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  # ---------------------------------------------------------------------------
+  # 1) Fetch the 4 endpoints, normalize, and commit ONLY if content changed.
+  #    Skipping no-op commits keeps "1 commit == 1 real snapshot" true, which
+  #    is what makes the commits-by-path API a clean snapshot index.
+  # ---------------------------------------------------------------------------
+  snapshot:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - name: Checkout (shallow; we only push one commit on top of HEAD)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          # Default GITHUB_TOKEN is persisted so the later `git push` works.
+          persist-credentials: true
+
+      - name: Fetch endpoints -> data/*.json
+        run: |
+          set -euo pipefail
+          mkdir -p data
+          base="https://www.meteoromania.ro/wp-json/meteoapi/v2"
+
+          fetch_one() {
+            name="$1"
+            url="$base/$name"
+            raw="$(mktemp)"
+
+            # --fail: treat HTTP >=400 as an error (don't save error pages).
+            if ! curl -fsSL --retry 3 --retry-delay 5 --max-time 90 \
+                 -H 'Accept: application/json' "$url" -o "$raw"; then
+              echo "::warning title=fetch::$name request failed; keeping previous snapshot"
+              rm -f "$raw"; return 0
+            fi
+            if [ ! -s "$raw" ]; then
+              echo "::warning title=fetch::$name returned an empty body; keeping previous snapshot"
+              rm -f "$raw"; return 0
+            fi
+
+            # Determinism: re-serialize strict JSON with sorted keys (jq -S) so a
+            # byte diff means a real DATA change, not key reordering / whitespace.
+            #
+            # IMPORTANT: meteoromania's warnings feed (avertizari-generale)
+            # INTERMITTENTLY emits unescaped control chars (U+0000..U+001F inside
+            # strings) which is NOT strict RFC-8259 JSON -- `jq` rejects it.
+            # avertizari-nowcasting is often a bare string marker ("nu sunt ...").
+            # So: try to normalize, but if jq can't parse it, store the upstream
+            # bytes VERBATIM. Never blank a file, never lose a real payload, and
+            # keep the committed bytes byte-faithful to what the live wasm read
+            # would have seen.
+            norm="$(mktemp)"
+            if jq -S . "$raw" > "$norm" 2>/dev/null && [ -s "$norm" ]; then
+              mv "$norm" "data/$name.json"
+            else
+              rm -f "$norm"
+              mv "$raw" "data/$name.json"
+              echo "::notice title=fetch::$name is not strict JSON; stored verbatim"
+              return 0
+            fi
+            rm -f "$raw"
+          }
+
+          fetch_one starea-vremii          # stations (current weather)
+          fetch_one prognoza-orase         # city forecasts
+          fetch_one avertizari-generale    # general alerts
+
+          echo "----- data/ after fetch -----"
+          ls -l data
+          # End the newline so files are POSIX-clean and diff-stable.
+          for f in data/*.json; do
+            [ -n "$(tail -c1 "$f")" ] && printf '\n' >> "$f" || true
+          done
+
+      - name: Commit + push only if a snapshot changed
+        id: commit
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data
+          if git diff --cached --quiet; then
+            echo "No content change since last snapshot; skipping commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # Anchor the commit to the OBSERVATION time the payload reports
+          # (starea-vremii top-level `.date`, e.g. 2026-06-28T09:00:00+03:00) --
+          # NOT when this runner fired. That makes commit.committer.date the real
+          # synoptic hour, so the in-app history slider + since/until queries are
+          # honest and fully decoupled from cron jitter / skipped runs. Wall clock
+          # is only a fallback if the payload somehow carries no date.
+          obs="$(jq -r '.date // empty' data/starea-vremii.json 2>/dev/null || true)"
+          if [ -z "$obs" ]; then
+            obs="$(date -u +%Y-%m-%dT%H:%M:%S%z)"
+          fi
+          # Normalize the obs instant to UTC `Z` so the stored commit time is
+          # offset-agnostic: the client reads committer.date as UTC and renders
+          # +03 (Romania), and the UTC since/until day-buckets line up exactly.
+          obs_utc="$(date -u -d "$obs" +%Y-%m-%dT%H:%M:%SZ)"
+
+          GIT_AUTHOR_DATE="$obs_utc" GIT_COMMITTER_DATE="$obs_utc" \
+            git commit -m "data: snapshot $obs_utc"
+          git push origin "HEAD:${{ github.ref_name }}"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  # ---------------------------------------------------------------------------
+  # 2) Build the Trunk/wasm site and publish to GitHub Pages.
+  #    Runs after `snapshot` so the fresh checkout includes the new commit and
+  #    the deployed ./data/*.json is the latest snapshot.
+  # ---------------------------------------------------------------------------
+  build-deploy:
+    needs: snapshot
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Checkout (picks up the snapshot commit pushed above)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Install Rust + wasm target
+        run: |
+          set -euo pipefail
+          rustup target add wasm32-unknown-unknown
+
+      - name: Install Trunk
+        run: |
+          set -euo pipefail
+          # Prebuilt binary is far faster than `cargo install trunk`.
+          TRUNK_VERSION="v0.21.7"
+          curl -fsSL "https://github.com/trunk-rs/trunk/releases/download/${TRUNK_VERSION}/trunk-x86_64-unknown-linux-gnu.tar.gz" \
+            | tar -xz -C /usr/local/bin trunk
+          trunk --version
+
+      - name: Build site (wasm)
+        env:
+          # owner/repo for the in-app history reader (see docs/history.md).
+          # The app picks this up via option_env!("METEO_REPO_SLUG").
+          METEO_REPO_SLUG: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          # index.html pulls data/ into dist/ itself via
+          # `<link data-trunk rel="copy-dir" href="data" />`, so the wasm app
+          # reads the live snapshot same-origin from ./data/{name}.json.
+          # --public-url makes asset paths work under the project-pages subpath
+          # (https://<owner>.github.io/<repo>/).
+          repo="${GITHUB_REPOSITORY#*/}"
+          trunk build --release --public-url "/${repo}/"
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

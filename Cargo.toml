@@ -1,0 +1,27 @@
+[package]
+name = "meteo_ro"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+delaunator = "1.1.0"
+eframe = "0.34"
+egui = "0.34"
+ehttp = "0.7"
+noise = "0.9.0"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+spade = "2.15.1"
+
+# wasm-only glue
+[target.'cfg(target_arch = "wasm32")'.dependencies]
+wasm-bindgen-futures = "0.4"
+web-sys = { version = "0.3", features = ["HtmlCanvasElement", "Window", "Document", "console"] }
+getrandom = { version = "0.2", features = ["js"] }
+
+[profile.release]
+opt-level = 2
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true

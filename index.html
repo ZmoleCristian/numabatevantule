@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ro">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <title>Meteo România</title>
+    <link data-trunk rel="rust" data-wasm-opt="0" />
+    <link data-trunk rel="copy-dir" href="data" />
+    <style>
+      html,
+      body {
+        margin: 0;
+        height: 100%;
+        overflow: hidden;
+        background: #06090f;
+      }
+      canvas {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+      }
+      #loading {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #8c98ac;
+        font-family: system-ui, sans-serif;
+        font-size: 15px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="loading">se încarcă…</div>
+    <canvas id="the_canvas_id"></canvas>
+    <script>
+      window.addEventListener("load", () => {
+        const hide = setInterval(() => {
+          const c = document.getElementById("the_canvas_id");
+          if (c && c.width > 0) {
+            const l = document.getElementById("loading");
+            if (l) l.remove();
+            clearInterval(hide);
+          }
+        }, 200);
+      });
+    </script>
+  </body>
+</html>
