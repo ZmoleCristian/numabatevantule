@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-13T00:00:00+03:00",
+  "date": "2026-07-13T01:00:00+03:00",
   "features": [
     {
       "geometry": {
@@ -11,16 +11,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "ADAMCLISI",
-        "presiunetext": "995.4 mb, variabila",
+        "presiunetext": "995.3 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "21.9",
-        "umezeala": 71,
-        "vant": "4.1 m/s, directia : VSV",
+        "tempe": "21.1",
+        "umezeala": 76,
+        "vant": "2.4 m/s, directia : NNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -35,16 +35,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "ADJUD",
-        "presiunetext": "1002.4 mb, in crestere",
+        "presiunetext": "1002.0 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "18.7",
-        "umezeala": 89,
-        "vant": "2.0 m/s, directia : VNV",
+        "tempe": "18.3",
+        "umezeala": 92,
+        "vant": "1.2 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -59,16 +59,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "ALBA IULIA",
         "presiunetext": "987.6 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "19.1",
-        "umezeala": 67,
-        "vant": "0.8 m/s, directia : N",
+        "tempe": "17.8",
+        "umezeala": 78,
+        "vant": "0.9 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -83,16 +83,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "5",
         "nebulozitate": "cer acoperit",
         "nume": "ALEXANDRIA",
         "presiunetext": "1006.1 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "21.4",
-        "umezeala": 83,
-        "vant": "0.9 m/s, directia : SV",
+        "tempe": "21.5",
+        "umezeala": 84,
+        "vant": "1.5 m/s, directia : SV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -107,7 +107,7 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
@@ -116,11 +116,11 @@
           15,
           -11
         ],
-        "presiunetext": "1001.9 mb, in crestere",
+        "presiunetext": "1002.0 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "18.3",
-        "umezeala": 57,
-        "vant": "1.5 m/s, directia : SE",
+        "tempe": "16.9",
+        "umezeala": 66,
+        "vant": "0.7 m/s, directia : SSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -135,16 +135,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "5",
         "nebulozitate": "cer acoperit",
         "nume": "BACAU",
-        "presiunetext": "994.6 mb, variabila",
+        "presiunetext": "995.0 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "17.6",
-        "umezeala": 98,
-        "vant": "1.4 m/s, directia : N",
+        "tempe": "16.8",
+        "umezeala": 97,
+        "vant": "0.9 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -159,16 +159,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BACLES",
-        "presiunetext": "979.2 mb, in crestere",
+        "presiunetext": "979.4 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "20.1",
-        "umezeala": 59,
-        "vant": "4.1 m/s, directia : VNV",
+        "tempe": "18.3",
+        "umezeala": 67,
+        "vant": "2.4 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -183,16 +183,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "BAIA MARE",
-        "presiunetext": "994.4 mb, in crestere",
+        "presiunetext": "994.5 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "16.0",
-        "umezeala": 76,
-        "vant": "2.6 m/s, directia : N",
+        "tempe": "15.6",
+        "umezeala": 77,
+        "vant": "2.7 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -207,16 +207,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BAILE HERCULANE",
         "presiunetext": "993.5 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "17.2",
-        "umezeala": 80,
-        "vant": "0.7 m/s, directia : E",
+        "tempe": "16.4",
+        "umezeala": 84,
+        "vant": "0.3 m/s, directia : NE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -231,16 +231,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BAILESTI",
-        "presiunetext": "1008.4 mb, in crestere",
+        "presiunetext": "1008.5 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "20.2",
-        "umezeala": 84,
-        "vant": "2.4 m/s, directia : VSV",
+        "tempe": "19.8",
+        "umezeala": 80,
+        "vant": "2.3 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -255,16 +255,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BAISOARA",
-        "presiunetext": "867.1 mb, in crestere",
+        "presiunetext": "867.0 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "10.2",
-        "umezeala": 81,
-        "vant": "1.2 m/s, directia : V",
+        "tempe": "9.5",
+        "umezeala": 84,
+        "vant": "0.8 m/s, directia : VNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -279,16 +279,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "5",
         "nebulozitate": "cer acoperit",
         "nume": "BALEA LAC",
-        "presiunetext": "796.7 mb, variabila",
+        "presiunetext": "796.2 mb, variabila",
         "tempapa": "indisponibil",
         "tempe": "6.5",
-        "umezeala": 93,
-        "vant": "4.3 m/s, directia : N",
+        "umezeala": 91,
+        "vant": "5.9 m/s, directia : N",
         "zapada": "discontinuu "
       },
       "type": "feature"
@@ -303,16 +303,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BANLOC",
-        "presiunetext": "1006.0 mb, variabila",
+        "presiunetext": "1006.2 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "19.6",
-        "umezeala": 89,
-        "vant": "1.2 m/s, directia : SV",
+        "tempe": "18.9",
+        "umezeala": 82,
+        "vant": "1.5 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -327,16 +327,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "ploaie",
-        "icon": "18",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BARAOLT",
-        "presiunetext": "957.9 mb, in crestere",
+        "presiunetext": "957.8 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "14.2",
-        "umezeala": 94,
-        "vant": "0.8 m/s, directia : SSV",
+        "tempe": "14.1",
+        "umezeala": 96,
+        "vant": "1.1 m/s, directia : SV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -351,16 +351,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BARLAD",
-        "presiunetext": "994.9 mb, in crestere",
+        "presiunetext": "994.5 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "17.8",
-        "umezeala": 94,
-        "vant": "1.8 m/s, directia : NNV",
+        "tempe": "17.4",
+        "umezeala": 96,
+        "vant": "1.5 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -375,15 +375,15 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BARNOVA (RADAR)",
-        "presiunetext": "970.2 mb, variabila",
+        "presiunetext": "969.8 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "15.4",
-        "umezeala": 97,
+        "tempe": "15.3",
+        "umezeala": 98,
         "vant": "0.4 m/s, directia : N",
         "zapada": "indisponibil"
       },
@@ -399,16 +399,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BATOS",
-        "presiunetext": "964.8 mb, in crestere",
+        "presiunetext": "964.6 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "14.3",
-        "umezeala": 96,
-        "vant": "0.7 m/s, directia : ENE",
+        "tempe": "13.8",
+        "umezeala": 97,
+        "vant": "0.8 m/s, directia : SE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -423,15 +423,15 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "1",
         "nebulozitate": "cer senin",
         "nume": "BECHET",
         "presiunetext": "1010.8 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "20.1",
-        "umezeala": 87,
+        "tempe": "19.7",
+        "umezeala": 84,
         "vant": "1.9 m/s, directia : SV",
         "zapada": "indisponibil"
       },
@@ -447,16 +447,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "aversa ploaie",
         "icon": "49",
         "nebulozitate": "indisponibil",
         "nume": "BISOCA",
-        "presiunetext": "918.7 mb, variabila",
+        "presiunetext": "918.9 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "15.0",
-        "umezeala": 75,
-        "vant": "6.5 m/s, directia : NNV",
+        "tempe": "13.6",
+        "umezeala": 87,
+        "vant": "7.2 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -471,16 +471,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
-        "icon": "4",
-        "nebulozitate": "cer partial noros",
+        "icon": "1",
+        "nebulozitate": "cer senin",
         "nume": "BISTRITA",
-        "presiunetext": "973.1 mb, in crestere",
+        "presiunetext": "973.2 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "14.7",
+        "tempe": "13.7",
         "umezeala": 95,
-        "vant": "1.5 m/s, directia : NE",
+        "vant": "1.4 m/s, directia : NNE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -495,16 +495,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BLAJ",
         "presiunetext": "977.4 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "16.0",
-        "umezeala": 86,
-        "vant": "1.6 m/s, directia : SSE",
+        "tempe": "15.5",
+        "umezeala": 91,
+        "vant": "3.4 m/s, directia : S",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -519,16 +519,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BOITA",
-        "presiunetext": "957.1 mb, in crestere",
+        "presiunetext": "957.1 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "16.0",
-        "umezeala": 79,
-        "vant": "0.9 m/s, directia : SV",
+        "tempe": "15.7",
+        "umezeala": 80,
+        "vant": "0.9 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -543,16 +543,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BOROD",
         "presiunetext": "977.7 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "15.3",
-        "umezeala": 85,
-        "vant": "2.1 m/s, directia : SSE",
+        "tempe": "14.0",
+        "umezeala": 94,
+        "vant": "1.4 m/s, directia : SE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -567,16 +567,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BOTOSANI",
-        "presiunetext": "997.1 mb, in crestere",
+        "presiunetext": "996.6 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "15.6",
-        "umezeala": 97,
-        "vant": "1.5 m/s, directia : VNV",
+        "tempe": "15.2",
+        "umezeala": 94,
+        "vant": "3.2 m/s, directia : VNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -591,16 +591,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BOZOVICI",
-        "presiunetext": "987.6 mb, in crestere",
+        "presiunetext": "987.5 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "16.6",
-        "umezeala": 93,
-        "vant": "1.0 m/s, directia : NNE",
+        "tempe": "15.6",
+        "umezeala": 97,
+        "vant": "0.8 m/s, directia : NE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -615,20 +615,20 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
-        "icon": "5",
-        "nebulozitate": "cer acoperit",
+        "icon": "84",
+        "nebulozitate": "indisponibil",
         "nume": "BRAILA",
         "offset": [
           10,
           -8
         ],
-        "presiunetext": "1012.2 mb, ",
+        "presiunetext": "1012.4 mb, ",
         "tempapa": "indisponibil",
-        "tempe": "19.8",
+        "tempe": "19.4",
         "umezeala": 99,
-        "vant": "1.0 m/s, directia : VSV",
+        "vant": "1.1 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -643,16 +643,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "oraj",
-        "icon": "65",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "5",
         "nebulozitate": "cer acoperit",
         "nume": "BRASOV GHIMBAV",
-        "presiunetext": "955.6 mb, variabila",
+        "presiunetext": "955.2 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "13.4",
+        "tempe": "13.0",
         "umezeala": 97,
-        "vant": "2.9 m/s, directia : S",
+        "vant": "3.7 m/s, directia : SV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -667,16 +667,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BUCIN",
-        "presiunetext": "872.6 mb, in crestere",
+        "presiunetext": "872.5 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "9.2",
-        "umezeala": 93,
-        "vant": "0.6 m/s, directia : SSV",
+        "tempe": "9.1",
+        "umezeala": 97,
+        "vant": "1.4 m/s, directia : SSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -691,16 +691,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "5",
         "nebulozitate": "cer acoperit",
         "nume": "BUCURESTI AFUMATI",
-        "presiunetext": "1004.4 mb, in crestere",
+        "presiunetext": "1005.5 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "21.5",
-        "umezeala": 64,
-        "vant": "1.2 m/s, directia : NNV",
+        "tempe": "19.6",
+        "umezeala": 78,
+        "vant": "2.0 m/s, directia : SE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -715,16 +715,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BUCURESTI BANEASA",
-        "presiunetext": "1003.2 mb, in crestere",
+        "presiunetext": "1004.4 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "21.0",
-        "umezeala": 67,
-        "vant": "1.3 m/s, directia : N",
+        "tempe": "20.1",
+        "umezeala": 76,
+        "vant": "0.3 m/s, directia : SE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -739,16 +739,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BUCURESTI FILARET",
-        "presiunetext": "1004.7 mb, in crestere",
+        "presiunetext": "1005.5 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "22.1",
-        "umezeala": 61,
-        "vant": "0.8 m/s, directia : SE",
+        "tempe": "21.4",
+        "umezeala": 68,
+        "vant": "0.3 m/s, directia : ENE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -763,16 +763,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BUZAU",
-        "presiunetext": "1003.6 mb, variabila",
+        "presiunetext": "1003.4 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "19.5",
-        "umezeala": 74,
-        "vant": "4.6 m/s, directia : NNV",
+        "tempe": "18.6",
+        "umezeala": 83,
+        "vant": "1.4 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -787,16 +787,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "1",
         "nebulozitate": "cer senin",
         "nume": "CALAFAT",
         "presiunetext": "1008.4 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "21.2",
-        "umezeala": 75,
-        "vant": "2.1 m/s, directia : VSV",
+        "tempe": "21.3",
+        "umezeala": 69,
+        "vant": "2.4 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -811,16 +811,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "ploaie",
         "icon": "18",
         "nebulozitate": "indisponibil",
         "nume": "CALARASI",
-        "presiunetext": "1011.8 mb, variabila",
+        "presiunetext": "1011.7 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "23.7",
-        "umezeala": 70,
-        "vant": "1.8 m/s, directia : SV",
+        "tempe": "18.8",
+        "umezeala": 95,
+        "vant": "1.5 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -835,15 +835,15 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "ceata",
         "icon": "29",
         "nebulozitate": "cer invizibil",
         "nume": "CALIMANI (RETITIS)",
-        "presiunetext": "798.8 mb, in crestere",
+        "presiunetext": "798.5 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "5.3",
-        "umezeala": 98,
+        "tempe": "5.1",
+        "umezeala": 99,
         "vant": "7.2 m/s, directia : N",
         "zapada": "indisponibil"
       },
@@ -859,16 +859,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "CAMPENI (BISTRA)",
-        "presiunetext": "946.4 mb, in crestere",
+        "presiunetext": "946.3 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "15.1",
-        "umezeala": 73,
-        "vant": "0.3 m/s, directia : VSV",
+        "tempe": "13.2",
+        "umezeala": 83,
+        "vant": "0.3 m/s, directia : SSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -883,16 +883,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "CAMPINA",
-        "presiunetext": "961.2 mb, in crestere",
+        "presiunetext": "961.5 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "17.7",
-        "umezeala": 71,
-        "vant": "0.7 m/s, directia : V",
+        "tempe": "18.1",
+        "umezeala": 59,
+        "vant": "1.8 m/s, directia : NNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -907,16 +907,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "CAMPULUNG MUSCEL",
         "presiunetext": "937.6 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "15.7",
-        "umezeala": 89,
-        "vant": "1.1 m/s, directia : NNV",
+        "tempe": "15.5",
+        "umezeala": 74,
+        "vant": "2.9 m/s, directia : NE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -931,16 +931,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "1",
         "nebulozitate": "cer senin",
         "nume": "CARACAL",
-        "presiunetext": "1002.2 mb, in crestere",
+        "presiunetext": "1002.1 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "19.6",
-        "umezeala": 93,
-        "vant": "2.0 m/s, directia : VSV",
+        "tempe": "19.5",
+        "umezeala": 87,
+        "vant": "2.6 m/s, directia : VSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -955,16 +955,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "CARANSEBES",
-        "presiunetext": "988.2 mb, in crestere",
+        "presiunetext": "988.0 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "18.7",
-        "umezeala": 73,
-        "vant": "1.7 m/s, directia : ESE",
+        "tempe": "17.6",
+        "umezeala": 80,
+        "vant": "1.8 m/s, directia : SSE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -979,16 +979,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
-        "icon": "5",
-        "nebulozitate": "cer acoperit",
+        "icon": "4",
+        "nebulozitate": "cer partial noros",
         "nume": "CEAHLAU TOACA",
-        "presiunetext": "810.9 mb, stationara",
+        "presiunetext": "810.7 mb, stationara",
         "tempapa": "indisponibil",
-        "tempe": "6.3",
-        "umezeala": 93,
-        "vant": "7.1 m/s, directia : VNV",
+        "tempe": "6.2",
+        "umezeala": 98,
+        "vant": "6.9 m/s, directia : VNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1003,16 +1003,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "indisponibil",
-        "icon": "84",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "ploaie",
+        "icon": "18",
         "nebulozitate": "indisponibil",
         "nume": "CERNAVODA",
-        "presiunetext": "1003.1 mb, in crestere",
+        "presiunetext": "1002.8 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "22.2",
-        "umezeala": 64,
-        "vant": "1.0 m/s, directia : SE",
+        "tempe": "22.0",
+        "umezeala": 76,
+        "vant": "2.5 m/s, directia : SV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1027,16 +1027,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
-        "icon": "5",
-        "nebulozitate": "cer acoperit",
+        "icon": "4",
+        "nebulozitate": "cer partial noros",
         "nume": "CHISINEU CRIS",
-        "presiunetext": "1004.3 mb, in crestere",
+        "presiunetext": "1004.4 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "19.2",
-        "umezeala": 56,
-        "vant": "1.3 m/s, directia : ESE",
+        "tempe": "19.0",
+        "umezeala": 57,
+        "vant": "2.3 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1051,16 +1051,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "CLUJ-NAPOCA",
         "presiunetext": "968.8 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "15.1",
-        "umezeala": 86,
-        "vant": "1.3 m/s, directia : VSV",
+        "tempe": "14.6",
+        "umezeala": 88,
+        "vant": "2.1 m/s, directia : VSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1075,16 +1075,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "CONSTANTA",
-        "presiunetext": "1012.1 mb, variabila",
+        "presiunetext": "1012.0 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "23.5",
-        "umezeala": 72,
-        "vant": "1.3 m/s, directia : S",
+        "tempe": "23.4",
+        "umezeala": 62,
+        "vant": "2.1 m/s, directia : SSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1099,16 +1099,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "CORUGEA",
-        "presiunetext": "987.6 mb, variabila",
+        "presiunetext": "987.9 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "19.3",
-        "umezeala": 93,
-        "vant": "5.4 m/s, directia : ENE",
+        "tempe": "19.2",
+        "umezeala": 91,
+        "vant": "3.1 m/s, directia : NE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1123,16 +1123,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "indisponibil",
-        "icon": "84",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "aversa ploaie",
+        "icon": "49",
         "nebulozitate": "indisponibil",
         "nume": "COTNARI",
-        "presiunetext": "981.1 mb, variabila",
+        "presiunetext": "981.2 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "17.4",
-        "umezeala": 71,
-        "vant": "4.8 m/s, directia : NV",
+        "tempe": "16.0",
+        "umezeala": 83,
+        "vant": "5.7 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1147,16 +1147,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "1",
         "nebulozitate": "cer senin",
         "nume": "CRAIOVA",
         "presiunetext": "992.5 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "20.2",
-        "umezeala": 80,
-        "vant": "3.4 m/s, directia : SV",
+        "tempe": "19.4",
+        "umezeala": 82,
+        "vant": "2.2 m/s, directia : VSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1171,16 +1171,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "CUNTU",
-        "presiunetext": "856.8 mb, in crestere",
+        "presiunetext": "856.4 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "12.1",
-        "umezeala": 78,
-        "vant": "3.3 m/s, directia : NNE",
+        "tempe": "12.2",
+        "umezeala": 72,
+        "vant": "3.5 m/s, directia : NNE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1195,16 +1195,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "CURTEA DE ARGES",
-        "presiunetext": "962.8 mb, in crestere",
+        "presiunetext": "963.0 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "16.2",
-        "umezeala": 84,
-        "vant": "0.8 m/s, directia : NNV",
+        "tempe": "15.3",
+        "umezeala": 85,
+        "vant": "0.6 m/s, directia : E",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1219,16 +1219,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "DARABANI",
         "presiunetext": "985.4 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "15.7",
-        "umezeala": 86,
-        "vant": "4.2 m/s, directia : VNV",
+        "tempe": "14.7",
+        "umezeala": 94,
+        "vant": "3.5 m/s, directia : VNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1243,15 +1243,15 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "DEDULESTI-MORARESTI",
         "presiunetext": "952.1 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "18.9",
-        "umezeala": 56,
+        "tempe": "18.7",
+        "umezeala": 54,
         "vant": "3.4 m/s, directia : N",
         "zapada": "indisponibil"
       },
@@ -1267,16 +1267,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "DEJ",
-        "presiunetext": "988.6 mb, in crestere",
+        "presiunetext": "988.5 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "15.3",
-        "umezeala": 90,
-        "vant": "0.6 m/s, directia : N",
+        "tempe": "14.5",
+        "umezeala": 93,
+        "vant": "1.3 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1291,16 +1291,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "5",
         "nebulozitate": "cer acoperit",
         "nume": "DEVA",
         "presiunetext": "988.3 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "17.1",
-        "umezeala": 88,
-        "vant": "0.1 m/s, directia : SE",
+        "tempe": "16.8",
+        "umezeala": 95,
+        "vant": "0.7 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1315,16 +1315,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "DRAGASANI",
-        "presiunetext": "982.4 mb, in crestere",
+        "presiunetext": "982.5 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "20.7",
-        "umezeala": 61,
-        "vant": "2.9 m/s, directia : NV",
+        "tempe": "20.2",
+        "umezeala": 68,
+        "vant": "1.9 m/s, directia : NNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1339,16 +1339,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "1",
         "nebulozitate": "cer senin",
         "nume": "DROBETA TURNU SEVERIN",
-        "presiunetext": "1006.5 mb, in crestere",
+        "presiunetext": "1006.3 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "21.8",
-        "umezeala": 57,
-        "vant": "1.2 m/s, directia : V",
+        "tempe": "21.2",
+        "umezeala": 61,
+        "vant": "1.1 m/s, directia : VNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1363,16 +1363,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "indisponibil",
-        "icon": "84",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "aversa ploaie",
+        "icon": "49",
         "nebulozitate": "indisponibil",
         "nume": "DUMBRAVENI",
-        "presiunetext": "979.4 mb, in crestere",
+        "presiunetext": "979.1 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "15.6",
-        "umezeala": 95,
-        "vant": "0.7 m/s, directia : N",
+        "tempe": "15.7",
+        "umezeala": 96,
+        "vant": "0.8 m/s, directia : VNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1387,16 +1387,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "ploaie",
-        "icon": "18",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "DUMBRAVITA DE CODRU",
         "presiunetext": "948.8 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "16.7",
-        "umezeala": 70,
-        "vant": "1.5 m/s, directia : ENE",
+        "tempe": "17.0",
+        "umezeala": 64,
+        "vant": "1.6 m/s, directia : ENE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1411,16 +1411,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "FAGARAS",
-        "presiunetext": "967.6 mb, variabila",
+        "presiunetext": "967.3 mb, variabila",
         "tempapa": "indisponibil",
         "tempe": "14.6",
         "umezeala": 99,
-        "vant": "1.6 m/s, directia : NE",
+        "vant": "0.5 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1435,16 +1435,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "FETESTI",
-        "presiunetext": "1006.5 mb, variabila",
+        "presiunetext": "1007.2 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "22.1",
-        "umezeala": 79,
-        "vant": "2.7 m/s, directia : ENE",
+        "tempe": "21.3",
+        "umezeala": 80,
+        "vant": "3.1 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1459,16 +1459,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "aversa ploaie",
         "icon": "49",
         "nebulozitate": "indisponibil",
         "nume": "FOCSANI",
-        "presiunetext": "1008.8 mb, variabila",
+        "presiunetext": "1008.8 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "18.9",
-        "umezeala": 94,
-        "vant": "1.5 m/s, directia : NE",
+        "tempe": "18.6",
+        "umezeala": 95,
+        "vant": "0.5 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1483,16 +1483,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "FUNDATA",
-        "presiunetext": "865.2 mb, in crestere",
+        "presiunetext": "865.0 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "9.4",
-        "umezeala": 97,
-        "vant": "3.0 m/s, directia : ENE",
+        "tempe": "9.5",
+        "umezeala": 93,
+        "vant": "3.3 m/s, directia : ENE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1535,16 +1535,16 @@
         "zoom": 2
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "GIURGIU",
-        "presiunetext": "1011.9 mb, in crestere",
+        "presiunetext": "1012.0 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "21.1",
-        "umezeala": 85,
-        "vant": "2.0 m/s, directia : SV",
+        "tempe": "20.8",
+        "umezeala": 88,
+        "vant": "1.3 m/s, directia : VSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1559,16 +1559,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "indisponibil",
-        "icon": "84",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "ploaie",
+        "icon": "18",
         "nebulozitate": "indisponibil",
         "nume": "GORGOVA",
-        "presiunetext": "1013.6 mb, variabila",
+        "presiunetext": "1013.5 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "20.6",
-        "umezeala": 94,
-        "vant": "0.7 m/s, directia : NNV",
+        "tempe": "19.9",
+        "umezeala": 98,
+        "vant": "1.1 m/s, directia : S",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1583,16 +1583,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "ploaie",
-        "icon": "18",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "GRIVITA",
-        "presiunetext": "1008.9 mb, in crestere",
+        "presiunetext": "1008.3 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "21.3",
-        "umezeala": 68,
-        "vant": "3.7 m/s, directia : NV",
+        "tempe": "19.6",
+        "umezeala": 80,
+        "vant": "3.4 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1607,16 +1607,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "descarcari electrice",
-        "icon": "82",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "5",
         "nebulozitate": "cer acoperit",
         "nume": "GURA PORTITEI",
-        "presiunetext": "1014.1 mb, variabila",
+        "presiunetext": "1013.5 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "23.6",
-        "umezeala": 84,
-        "vant": "1.4 m/s, directia : VNV",
+        "tempe": "21.6",
+        "umezeala": 76,
+        "vant": "1.5 m/s, directia : NNE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1631,16 +1631,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "GURAHONT",
-        "presiunetext": "995.2 mb, in crestere",
+        "presiunetext": "995.1 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "18.4",
-        "umezeala": 75,
-        "vant": "1.9 m/s, directia : ESE",
+        "tempe": "17.4",
+        "umezeala": 79,
+        "vant": "1.5 m/s, directia : ESE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1655,16 +1655,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "HARSOVA",
-        "presiunetext": "1008.7 mb, variabila",
+        "presiunetext": "1008.9 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "19.3",
-        "umezeala": 96,
-        "vant": "2.5 m/s, directia : NE",
+        "tempe": "19.5",
+        "umezeala": 92,
+        "vant": "2.5 m/s, directia : E",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1679,16 +1679,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "HOLOD",
-        "presiunetext": "997.0 mb, in crestere",
+        "presiunetext": "997.1 mb, variabila",
         "tempapa": "indisponibil",
         "tempe": "17.6",
-        "umezeala": 91,
-        "vant": "2.0 m/s, directia : ENE",
+        "umezeala": 86,
+        "vant": "1.3 m/s, directia : E",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1703,16 +1703,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "HUEDIN",
-        "presiunetext": "952.0 mb, in crestere",
+        "presiunetext": "952.1 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "14.5",
-        "umezeala": 90,
-        "vant": "0.9 m/s, directia : VSV",
+        "tempe": "13.5",
+        "umezeala": 88,
+        "vant": "0.9 m/s, directia : S",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1727,16 +1727,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "ploaie",
-        "icon": "18",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "5",
         "nebulozitate": "cer acoperit",
         "nume": "IASI",
-        "presiunetext": "1006.7 mb, variabila",
+        "presiunetext": "1006.4 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "19.7",
-        "umezeala": 75,
-        "vant": "1.9 m/s, directia : V",
+        "tempe": "17.4",
+        "umezeala": 91,
+        "vant": "1.3 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1751,16 +1751,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "IEZER",
         "presiunetext": "822.5 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "5.8",
-        "umezeala": 97,
-        "vant": "1.0 m/s, directia : SSV",
+        "tempe": "5.3",
+        "umezeala": 98,
+        "vant": "0.8 m/s, directia : SV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1775,16 +1775,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "indisponibil",
-        "icon": "84",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "ploaie",
+        "icon": "18",
         "nebulozitate": "indisponibil",
         "nume": "INTORSURA BUZAULUI",
-        "presiunetext": "937.6 mb, variabila",
+        "presiunetext": "937.4 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "14.8",
-        "umezeala": 100,
-        "vant": "0.8 m/s, directia : VNV",
+        "tempe": "13.8",
+        "umezeala": 99,
+        "vant": "1.1 m/s, directia : S",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1799,16 +1799,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "JIMBOLIA",
-        "presiunetext": "1006.5 mb, in crestere",
+        "presiunetext": "1006.9 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "19.3",
-        "umezeala": 61,
-        "vant": "2.1 m/s, directia : VNV",
+        "tempe": "18.0",
+        "umezeala": 63,
+        "vant": "1.2 m/s, directia : NNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1823,16 +1823,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "5",
         "nebulozitate": "cer acoperit",
         "nume": "JOSENI",
-        "presiunetext": "930.7 mb, in crestere",
+        "presiunetext": "930.6 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "11.8",
-        "umezeala": 93,
-        "vant": "1.0 m/s, directia : S",
+        "tempe": "11.5",
+        "umezeala": 94,
+        "vant": "1.4 m/s, directia : ESE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1847,16 +1847,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "JURILOVCA",
-        "presiunetext": "1010.5 mb, variabila",
+        "presiunetext": "1008.9 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "17.2",
-        "umezeala": 93,
-        "vant": "4.4 m/s, directia : V",
+        "tempe": "19.3",
+        "umezeala": 95,
+        "vant": "2.1 m/s, directia : NE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1871,16 +1871,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "ceata",
+        "icon": "29",
         "nebulozitate": "cer invizibil",
         "nume": "LACAUTI",
-        "presiunetext": "823.1 mb, variabila",
+        "presiunetext": "823.0 mb, variabila",
         "tempapa": "indisponibil",
         "tempe": "7.2",
         "umezeala": 100,
-        "vant": "6.5 m/s, directia : NV",
+        "vant": "8.0 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1895,16 +1895,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "LUGOJ",
         "presiunetext": "1001.4 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "18.1",
-        "umezeala": 85,
-        "vant": "1.0 m/s, directia : ESE",
+        "tempe": "16.3",
+        "umezeala": 89,
+        "vant": "1.1 m/s, directia : SSE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1919,16 +1919,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "indisponibil",
-        "icon": "84",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "ploaie",
+        "icon": "18",
         "nebulozitate": "indisponibil",
         "nume": "MAHMUDIA",
-        "presiunetext": "994.7 mb, variabila",
+        "presiunetext": "994.1 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "21.2",
-        "umezeala": 91,
-        "vant": "1.4 m/s, directia : SV",
+        "tempe": "19.1",
+        "umezeala": 95,
+        "vant": "7.1 m/s, directia : SSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1943,16 +1943,16 @@
         "zoom": 2
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "indisponibil",
-        "icon": "84",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "ploaie",
+        "icon": "18",
         "nebulozitate": "indisponibil",
         "nume": "MANGALIA",
-        "presiunetext": "1013.2 mb, in crestere",
+        "presiunetext": "1012.8 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "22.8",
-        "umezeala": 77,
-        "vant": "0.8 m/s, directia : ESE",
+        "tempe": "22.6",
+        "umezeala": 82,
+        "vant": "0.7 m/s, directia : NE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1967,16 +1967,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "MEDGIDIA",
-        "presiunetext": "1005.7 mb, variabila",
+        "presiunetext": "1005.4 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "22.6",
-        "umezeala": 61,
-        "vant": "3.4 m/s, directia : VSV",
+        "tempe": "22.2",
+        "umezeala": 67,
+        "vant": "1.6 m/s, directia : VNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1991,16 +1991,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
-        "icon": "5",
-        "nebulozitate": "cer acoperit",
+        "icon": "4",
+        "nebulozitate": "cer partial noros",
         "nume": "MIERCUREA CIUC",
-        "presiunetext": "939.9 mb, in crestere",
+        "presiunetext": "939.8 mb, in scadere",
         "tempapa": "indisponibil",
-        "tempe": "13.1",
-        "umezeala": 94,
-        "vant": "0.6 m/s, directia : V",
+        "tempe": "13.8",
+        "umezeala": 87,
+        "vant": "3.9 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2015,16 +2015,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "MOLDOVA VECHE",
         "presiunetext": "1006.7 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "19.8",
+        "tempe": "19.9",
         "umezeala": 83,
-        "vant": "3.3 m/s, directia : ENE",
+        "vant": "1.9 m/s, directia : ENE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2039,16 +2039,16 @@
         "zoom": 2
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "NEGRESTI (VASLUI)",
-        "presiunetext": "999.1 mb, in crestere",
+        "presiunetext": "999.0 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "17.5",
-        "umezeala": 92,
-        "vant": "2.4 m/s, directia : NNV",
+        "tempe": "17.1",
+        "umezeala": 93,
+        "vant": "1.4 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2063,16 +2063,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
-        "icon": "1",
-        "nebulozitate": "cer senin",
+        "icon": "5",
+        "nebulozitate": "cer acoperit",
         "nume": "OCNA SUGATAG",
-        "presiunetext": "958.4 mb, in crestere",
+        "presiunetext": "958.3 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "12.9",
-        "umezeala": 81,
-        "vant": "2.2 m/s, directia : S",
+        "tempe": "13.0",
+        "umezeala": 80,
+        "vant": "2.1 m/s, directia : S",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2087,16 +2087,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "ODORHEIUL SECUIESC",
-        "presiunetext": "956.1 mb, variabila",
+        "presiunetext": "956.0 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "13.7",
-        "umezeala": 94,
-        "vant": "0.8 m/s, directia : SSV",
+        "tempe": "13.4",
+        "umezeala": 96,
+        "vant": "0.7 m/s, directia : E",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2111,16 +2111,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "OLTENITA",
-        "presiunetext": "1013.1 mb, in crestere",
+        "presiunetext": "1013.2 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "20.9",
-        "umezeala": 83,
-        "vant": "1.3 m/s, directia : ENE",
+        "tempe": "20.1",
+        "umezeala": 89,
+        "vant": "1.0 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2135,16 +2135,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "51",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "5",
         "nebulozitate": "cer acoperit",
         "nume": "ORADEA",
-        "presiunetext": "1000.6 mb, variabila",
+        "presiunetext": "1000.2 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "18.9",
-        "umezeala": 75,
-        "vant": "3.1 m/s, directia : N",
+        "tempe": "17.9",
+        "umezeala": 85,
+        "vant": "1.1 m/s, directia : ESE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2159,16 +2159,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "ORAVITA",
-        "presiunetext": "980.5 mb, in crestere",
+        "presiunetext": "980.4 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "19.1",
+        "tempe": "18.3",
         "umezeala": 83,
-        "vant": "1.3 m/s, directia : NE",
+        "vant": "1.6 m/s, directia : NE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2183,16 +2183,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "PADES (APA NEAGRA)",
-        "presiunetext": "985.2 mb, in crestere",
+        "presiunetext": "985.1 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "15.8",
-        "umezeala": 68,
-        "vant": "0.5 m/s, directia : NE",
+        "tempe": "15.5",
+        "umezeala": 69,
+        "vant": "0.9 m/s, directia : E",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2207,16 +2207,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
-        "nebulozitate": "cer acoperit",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "4",
+        "nebulozitate": "cer partial noros",
         "nume": "PALTINIS",
-        "presiunetext": "856.9 mb, in crestere",
+        "presiunetext": "856.7 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "10.2",
+        "tempe": "10.3",
         "umezeala": 94,
-        "vant": "1.0 m/s, directia : SSV",
+        "vant": "0.5 m/s, directia : SSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2231,16 +2231,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "PARANG",
-        "presiunetext": "847.1 mb, in crestere",
+        "presiunetext": "846.6 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "9.2",
-        "umezeala": 88,
-        "vant": "5.3 m/s, directia : NNE",
+        "tempe": "10.2",
+        "umezeala": 79,
+        "vant": "3.8 m/s, directia : NNE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2255,16 +2255,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aer cetos",
-        "icon": "11",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "ploaie",
+        "icon": "18",
         "nebulozitate": "indisponibil",
         "nume": "PATARLAGELE",
-        "presiunetext": "981.3 mb, in crestere",
+        "presiunetext": "981.3 mb, stationara",
         "tempapa": "indisponibil",
-        "tempe": "15.8",
+        "tempe": "16.0",
         "umezeala": 97,
-        "vant": "0.2 m/s, directia : SV",
+        "vant": "0.4 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2279,16 +2279,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "indisponibil",
-        "icon": "5",
-        "nebulozitate": "cer acoperit",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "ceata",
+        "icon": "29",
+        "nebulozitate": "cer invizibil",
         "nume": "PENTELEU",
-        "presiunetext": "837.2 mb, variabila",
+        "presiunetext": "837.1 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "8.9",
+        "tempe": "8.1",
         "umezeala": 100,
-        "vant": "8.1 m/s, directia : NNV",
+        "vant": "8.7 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2303,16 +2303,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "PETROSANI",
-        "presiunetext": "947.2 mb, in crestere",
+        "presiunetext": "946.8 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "15.3",
-        "umezeala": 77,
-        "vant": "1.8 m/s, directia : N",
+        "tempe": "14.8",
+        "umezeala": 83,
+        "vant": "1.5 m/s, directia : NNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2327,16 +2327,16 @@
         "zoom": 2
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "PIATRA NEAMT",
-        "presiunetext": "973.6 mb, in crestere",
+        "presiunetext": "973.9 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "16.3",
-        "umezeala": 92,
-        "vant": "2.0 m/s, directia : V",
+        "tempe": "16.4",
+        "umezeala": 83,
+        "vant": "1.6 m/s, directia : NNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2351,16 +2351,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "PITESTI",
-        "presiunetext": "977.4 mb, in crestere",
+        "presiunetext": "977.5 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "19.9",
-        "umezeala": 70,
-        "vant": "1.8 m/s, directia : NNV",
+        "tempe": "19.0",
+        "umezeala": 74,
+        "vant": "1.1 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2375,15 +2375,15 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "PLOIESTI",
-        "presiunetext": "993.5 mb, in crestere",
+        "presiunetext": "994.0 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "19.5",
-        "umezeala": 68,
+        "tempe": "19.3",
+        "umezeala": 71,
         "vant": "1.0 m/s, directia : N",
         "zapada": "indisponibil"
       },
@@ -2399,16 +2399,16 @@
         "zoom": 2
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aer cetos",
-        "icon": "11",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "POIANA STAMPEI",
-        "presiunetext": "911.8 mb, in crestere",
+        "presiunetext": "911.6 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "11.0",
-        "umezeala": 98,
-        "vant": "1.0 m/s, directia : SSE",
+        "tempe": "10.2",
+        "umezeala": 97,
+        "vant": "1.1 m/s, directia : S",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2423,16 +2423,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "vizibilitate redusa din cauza fumului",
-        "icon": "13",
-        "nebulozitate": "cer acoperit",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "4",
+        "nebulozitate": "cer partial noros",
         "nume": "POLOVRAGI",
-        "presiunetext": "954.3 mb, in crestere",
+        "presiunetext": "954.2 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "19.0",
-        "umezeala": 56,
-        "vant": "1.1 m/s, directia : V",
+        "tempe": "17.1",
+        "umezeala": 63,
+        "vant": "0.7 m/s, directia : VNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2447,16 +2447,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "PREDEAL",
-        "presiunetext": "894.9 mb, variabila",
+        "presiunetext": "894.5 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "10.4",
-        "umezeala": 98,
-        "vant": "0.9 m/s, directia : SSE",
+        "tempe": "9.9",
+        "umezeala": 100,
+        "vant": "0.6 m/s, directia : SE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2471,16 +2471,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "ploaie",
+        "icon": "18",
         "nebulozitate": "indisponibil",
         "nume": "RADAUTI",
         "presiunetext": "971.2 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "14.2",
-        "umezeala": 94,
-        "vant": "3.3 m/s, directia : VNV",
+        "tempe": "14.0",
+        "umezeala": 96,
+        "vant": "1.7 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2495,16 +2495,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "indisponibil",
-        "icon": "84",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "aversa ploaie",
+        "icon": "49",
         "nebulozitate": "indisponibil",
         "nume": "RAMNICU SARAT",
-        "presiunetext": "996.3 mb, variabila",
+        "presiunetext": "996.6 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "18.9",
-        "umezeala": 80,
-        "vant": "4.5 m/s, directia : E",
+        "tempe": "18.2",
+        "umezeala": 91,
+        "vant": "1.3 m/s, directia : ENE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2519,16 +2519,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "RAMNICU VALCEA",
-        "presiunetext": "987.0 mb, in crestere",
+        "presiunetext": "986.9 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "19.8",
-        "umezeala": 72,
-        "vant": "0.5 m/s, directia : SSV",
+        "tempe": "18.3",
+        "umezeala": 74,
+        "vant": "0.8 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2543,16 +2543,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "RESITA",
-        "presiunetext": "983.7 mb, variabila",
+        "presiunetext": "983.6 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "17.2",
-        "umezeala": 93,
-        "vant": "2.0 m/s, directia : S",
+        "tempe": "16.3",
+        "umezeala": 92,
+        "vant": "1.8 m/s, directia : SSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2567,16 +2567,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "ROMAN",
-        "presiunetext": "989.1 mb, variabila",
+        "presiunetext": "989.4 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "15.9",
-        "umezeala": 94,
-        "vant": "1.9 m/s, directia : NV",
+        "tempe": "15.4",
+        "umezeala": 91,
+        "vant": "2.6 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2591,16 +2591,16 @@
         "zoom": 2
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
-        "icon": "4",
-        "nebulozitate": "cer partial noros",
+        "icon": "1",
+        "nebulozitate": "cer senin",
         "nume": "ROSIA MONTANA",
-        "presiunetext": "883.9 mb, in crestere",
+        "presiunetext": "883.6 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "11.9",
-        "umezeala": 73,
-        "vant": "0.8 m/s, directia : VNV",
+        "tempe": "11.6",
+        "umezeala": 74,
+        "vant": "0.6 m/s, directia : ESE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2615,16 +2615,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
-        "icon": "5",
-        "nebulozitate": "cer acoperit",
+        "icon": "4",
+        "nebulozitate": "cer partial noros",
         "nume": "ROSIORII DE VEDE",
         "presiunetext": "1002.6 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "20.8",
-        "umezeala": 89,
-        "vant": "3.8 m/s, directia : SV",
+        "tempe": "20.3",
+        "umezeala": 88,
+        "vant": "3.1 m/s, directia : VSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2639,16 +2639,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "SACUIENI",
-        "presiunetext": "1001.5 mb, in crestere",
+        "presiunetext": "1001.6 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "18.9",
-        "umezeala": 62,
-        "vant": "1.5 m/s, directia : E",
+        "tempe": "17.5",
+        "umezeala": 71,
+        "vant": "0.9 m/s, directia : NE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2663,16 +2663,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "SANNICOLAU MARE",
-        "presiunetext": "1006.1 mb, variabila",
+        "presiunetext": "1006.3 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "18.4",
-        "umezeala": 62,
-        "vant": "2.2 m/s, directia : NNV",
+        "tempe": "20.5",
+        "umezeala": 57,
+        "vant": "3.3 m/s, directia : NNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2687,16 +2687,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "SARMASU",
-        "presiunetext": "970.4 mb, in crestere",
+        "presiunetext": "970.3 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "16.9",
-        "umezeala": 76,
-        "vant": "1.3 m/s, directia : NV",
+        "tempe": "16.8",
+        "umezeala": 75,
+        "vant": "1.4 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2711,16 +2711,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "SATU MARE",
         "presiunetext": "1001.7 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "14.4",
-        "umezeala": 89,
-        "vant": "0.9 m/s, directia : E",
+        "tempe": "15.2",
+        "umezeala": 88,
+        "vant": "0.8 m/s, directia : ENE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2735,16 +2735,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "5",
         "nebulozitate": "cer acoperit",
         "nume": "SEBES (ALBA)",
-        "presiunetext": "985.2 mb, in crestere",
+        "presiunetext": "985.1 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "17.4",
-        "umezeala": 79,
-        "vant": "1.4 m/s, directia : ESE",
+        "tempe": "17.3",
+        "umezeala": 82,
+        "vant": "0.7 m/s, directia : E",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2759,16 +2759,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "SEMENIC",
-        "presiunetext": "860.5 mb, in crestere",
+        "presiunetext": "860.4 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "12.2",
-        "umezeala": 74,
-        "vant": "1.6 m/s, directia : NNV",
+        "tempe": "12.1",
+        "umezeala": 66,
+        "vant": "2.1 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2783,16 +2783,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "indisponibil",
-        "icon": "84",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "ploaie",
+        "icon": "18",
         "nebulozitate": "indisponibil",
         "nume": "SFANTU GHEORGHE (DELTA)",
-        "presiunetext": "1013.9 mb, variabila",
+        "presiunetext": "1014.2 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "22.4",
-        "umezeala": 89,
-        "vant": "1.4 m/s, directia : S",
+        "tempe": "22.1",
+        "umezeala": 90,
+        "vant": "2.5 m/s, directia : SV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2807,16 +2807,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "ploaie",
-        "icon": "18",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "SFANTU GHEORGHE (MUNTE)",
-        "presiunetext": "956.6 mb, in crestere",
+        "presiunetext": "956.1 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "14.9",
-        "umezeala": 91,
-        "vant": "0.8 m/s, directia : V",
+        "tempe": "14.5",
+        "umezeala": 95,
+        "vant": "1.5 m/s, directia : SSE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2831,16 +2831,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "vizibilitate redusa pacla, praf, fum",
-        "icon": "13",
-        "nebulozitate": "cer acoperit",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "4",
+        "nebulozitate": "cer partial noros",
         "nume": "SIBIU",
-        "presiunetext": "964.4 mb, variabila",
+        "presiunetext": "964.3 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "15.9",
-        "umezeala": 80,
-        "vant": "0.7 m/s, directia : E",
+        "tempe": "16.2",
+        "umezeala": 76,
+        "vant": "1.5 m/s, directia : NNE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2855,16 +2855,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "SIGHETUL MARMATIEI",
         "presiunetext": "984.4 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "14.3",
-        "umezeala": 91,
-        "vant": "0.4 m/s, directia : SE",
+        "tempe": "14.5",
+        "umezeala": 86,
+        "vant": "1.3 m/s, directia : ESE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2879,16 +2879,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "ceata",
-        "icon": "29",
-        "nebulozitate": "cer invizibil",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "5",
+        "nebulozitate": "cer acoperit",
         "nume": "SINAIA 1500",
-        "presiunetext": "850.0 mb, variabila",
+        "presiunetext": "849.7 mb, in scadere",
         "tempapa": "indisponibil",
-        "tempe": "9.1",
-        "umezeala": 100,
-        "vant": "2.4 m/s, directia : NNV",
+        "tempe": "8.4",
+        "umezeala": 94,
+        "vant": "5.6 m/s, directia : NNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2903,16 +2903,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "SIRIA",
-        "presiunetext": "961.6 mb, in crestere",
+        "presiunetext": "961.7 mb, in crestere",
         "tempapa": "indisponibil",
         "tempe": "19.9",
-        "umezeala": 47,
-        "vant": "1.7 m/s, directia : ENE",
+        "umezeala": 46,
+        "vant": "1.2 m/s, directia : NE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2927,16 +2927,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
-        "icon": "1",
-        "nebulozitate": "cer senin",
+        "icon": "4",
+        "nebulozitate": "cer partial noros",
         "nume": "SLATINA",
         "presiunetext": "994.5 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "19.2",
-        "umezeala": 80,
-        "vant": "1.2 m/s, directia : SSV",
+        "tempe": "20.7",
+        "umezeala": 74,
+        "vant": "1.5 m/s, directia : VNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2951,16 +2951,16 @@
         "zoom": 2
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "indisponibil",
-        "icon": "5",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "descarcari electrice",
+        "icon": "82",
         "nebulozitate": "cer acoperit",
         "nume": "SLOBOZIA",
-        "presiunetext": "1007.6 mb, in crestere",
+        "presiunetext": "1008.4 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "20.6",
-        "umezeala": 79,
-        "vant": "2.2 m/s, directia : N",
+        "tempe": "20.4",
+        "umezeala": 80,
+        "vant": "3.3 m/s, directia : SSE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2975,16 +2975,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
-        "icon": "1",
-        "nebulozitate": "cer senin",
+        "icon": "4",
+        "nebulozitate": "cer partial noros",
         "nume": "STANA DE VALE",
         "presiunetext": "892.4 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "9.0",
-        "umezeala": 98,
-        "vant": "0.4 m/s, directia : SE",
+        "tempe": "8.8",
+        "umezeala": 100,
+        "vant": "0.2 m/s, directia : SSE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -2999,16 +2999,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "STEFANESTI STANCA",
-        "presiunetext": "1002.0 mb, in crestere",
+        "presiunetext": "1001.9 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "18.7",
-        "umezeala": 71,
-        "vant": "7.1 m/s, directia : V",
+        "tempe": "17.6",
+        "umezeala": 79,
+        "vant": "5.6 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3023,16 +3023,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "indisponibil",
-        "icon": "84",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "aversa ploaie",
+        "icon": "49",
         "nebulozitate": "indisponibil",
         "nume": "STEI (PETRU GROZA)",
         "presiunetext": "983.2 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "17.4",
-        "umezeala": 71,
-        "vant": "1.9 m/s, directia : S",
+        "tempe": "16.8",
+        "umezeala": 78,
+        "vant": "2.2 m/s, directia : SSE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3047,15 +3047,15 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "STOLNICI",
-        "presiunetext": "990.2 mb, in crestere",
+        "presiunetext": "990.3 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "19.1",
-        "umezeala": 80,
+        "tempe": "17.3",
+        "umezeala": 86,
         "vant": "1.3 m/s, directia : NV",
         "zapada": "indisponibil"
       },
@@ -3071,16 +3071,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "SUCEAVA",
-        "presiunetext": "973.6 mb, variabila",
+        "presiunetext": "973.4 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "14.4",
-        "umezeala": 88,
-        "vant": "3.1 m/s, directia : NV",
+        "tempe": "14.3",
+        "umezeala": 90,
+        "vant": "2.2 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3095,16 +3095,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "SULINA",
-        "presiunetext": "1012.5 mb, variabila",
+        "presiunetext": "1012.7 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "22.6",
-        "umezeala": 90,
-        "vant": "2.9 m/s, directia : SSE",
+        "tempe": "21.6",
+        "umezeala": 94,
+        "vant": "4.2 m/s, directia : SSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3119,16 +3119,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "SUPURU DE JOS",
-        "presiunetext": "997.6 mb, in crestere",
+        "presiunetext": "997.8 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "13.9",
-        "umezeala": 86,
-        "vant": "1.3 m/s, directia : SV",
+        "tempe": "13.6",
+        "umezeala": 89,
+        "vant": "1.6 m/s, directia : ESE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3143,16 +3143,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "ceata",
         "icon": "29",
         "nebulozitate": "cer invizibil",
         "nume": "TARCU",
-        "presiunetext": "785.3 mb, in crestere",
+        "presiunetext": "784.7 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "6.2",
+        "tempe": "5.4",
         "umezeala": 100,
-        "vant": "12.1 m/s, directia : N",
+        "vant": "13.4 m/s, directia : NNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3167,16 +3167,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "TARGOVISTE",
-        "presiunetext": "980.1 mb, variabila",
+        "presiunetext": "980.3 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "18.9",
-        "umezeala": 76,
-        "vant": "2.0 m/s, directia : NNV",
+        "tempe": "17.7",
+        "umezeala": 82,
+        "vant": "0.7 m/s, directia : SSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3191,16 +3191,16 @@
         "zoom": 2
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "1",
         "nebulozitate": "cer senin",
         "nume": "TARGU JIU",
         "presiunetext": "991.2 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "19.9",
-        "umezeala": 52,
-        "vant": "0.3 m/s, directia : SSV",
+        "tempe": "18.0",
+        "umezeala": 62,
+        "vant": "0.6 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3215,16 +3215,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "TARGU LAPUS",
-        "presiunetext": "974.3 mb, in crestere",
+        "presiunetext": "974.2 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "13.4",
-        "umezeala": 90,
-        "vant": "0.7 m/s, directia : S",
+        "tempe": "13.2",
+        "umezeala": 91,
+        "vant": "1.1 m/s, directia : E",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3239,16 +3239,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "TARGU LOGRESTI",
         "presiunetext": "984.1 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "17.6",
-        "umezeala": 79,
-        "vant": "0.6 m/s, directia : NE",
+        "tempe": "15.6",
+        "umezeala": 87,
+        "vant": "0.3 m/s, directia : ENE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3263,16 +3263,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "4",
         "nebulozitate": "cer partial noros",
         "nume": "TARGU MURES",
-        "presiunetext": "980.9 mb, in crestere",
+        "presiunetext": "980.7 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "14.9",
-        "umezeala": 93,
-        "vant": "0.7 m/s, directia : SSE",
+        "tempe": "14.3",
+        "umezeala": 92,
+        "vant": "1.4 m/s, directia : E",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3287,16 +3287,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "TARGU NEAMT",
-        "presiunetext": "971.2 mb, in crestere",
+        "presiunetext": "971.0 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "15.2",
+        "tempe": "14.8",
         "umezeala": 88,
-        "vant": "2.4 m/s, directia : NNV",
+        "vant": "2.7 m/s, directia : NNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3311,16 +3311,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "TARGU OCNA",
-        "presiunetext": "986.6 mb, variabila",
+        "presiunetext": "986.7 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "16.4",
-        "umezeala": 94,
-        "vant": "3.7 m/s, directia : V",
+        "tempe": "16.1",
+        "umezeala": 90,
+        "vant": "2.6 m/s, directia : V",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3335,16 +3335,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "aversa ploaie",
         "icon": "49",
         "nebulozitate": "indisponibil",
         "nume": "TARGU SECUIESC",
-        "presiunetext": "951.1 mb, variabila",
+        "presiunetext": "950.9 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "15.1",
+        "tempe": "14.6",
         "umezeala": 96,
-        "vant": "3.5 m/s, directia : SV",
+        "vant": "2.8 m/s, directia : S",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3359,16 +3359,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "5",
         "nebulozitate": "cer acoperit",
         "nume": "TARNAVENI (BOBOHALMA)",
         "presiunetext": "956.0 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "15.3",
-        "umezeala": 83,
-        "vant": "2.2 m/s, directia : SSV",
+        "tempe": "15.5",
+        "umezeala": 79,
+        "vant": "2.9 m/s, directia : SSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3383,16 +3383,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "TEBEA",
         "presiunetext": "984.7 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "15.8",
-        "umezeala": 90,
-        "vant": "1.4 m/s, directia : S",
+        "tempe": "15.4",
+        "umezeala": 94,
+        "vant": "0.6 m/s, directia : SE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3407,16 +3407,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "TECUCI",
-        "presiunetext": "1007.7 mb, variabila",
+        "presiunetext": "1007.4 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "18.9",
-        "umezeala": 90,
-        "vant": "0.7 m/s, directia : NE",
+        "tempe": "19.0",
+        "umezeala": 89,
+        "vant": "0.2 m/s, directia : ENE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3431,16 +3431,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "1",
         "nebulozitate": "cer senin",
         "nume": "TIMISOARA",
-        "presiunetext": "1005.0 mb, in crestere",
+        "presiunetext": "1005.4 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "18.8",
-        "umezeala": 64,
-        "vant": "0.6 m/s, directia : E",
+        "tempe": "17.8",
+        "umezeala": 65,
+        "vant": "0.5 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3455,16 +3455,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "TITU",
-        "presiunetext": "996.5 mb, in crestere",
+        "presiunetext": "996.6 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "20.1",
-        "umezeala": 77,
-        "vant": "0.6 m/s, directia : VNV",
+        "tempe": "19.5",
+        "umezeala": 83,
+        "vant": "1.3 m/s, directia : S",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3479,16 +3479,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "TOPLITA",
-        "presiunetext": "938.0 mb, in crestere",
+        "presiunetext": "937.8 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "12.8",
-        "umezeala": 91,
-        "vant": "0.9 m/s, directia : SSE",
+        "tempe": "12.1",
+        "umezeala": 94,
+        "vant": "0.5 m/s, directia : SE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3503,16 +3503,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "indisponibil",
-        "icon": "5",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "aversa ploaie",
+        "icon": "49",
         "nebulozitate": "cer acoperit",
         "nume": "TULCEA",
-        "presiunetext": "1013.5 mb, variabila",
+        "presiunetext": "1012.8 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "20.4",
-        "umezeala": 87,
-        "vant": "1.3 m/s, directia : ESE",
+        "tempe": "20.2",
+        "umezeala": 92,
+        "vant": "2.1 m/s, directia : E",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3527,16 +3527,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "TURDA",
         "presiunetext": "967.1 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "16.7",
-        "umezeala": 73,
-        "vant": "0.8 m/s, directia : N",
+        "tempe": "16.3",
+        "umezeala": 75,
+        "vant": "1.5 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3551,16 +3551,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
-        "icon": "5",
-        "nebulozitate": "cer acoperit",
+        "icon": "4",
+        "nebulozitate": "cer partial noros",
         "nume": "TURNU MAGURELE",
-        "presiunetext": "1011.5 mb, in crestere",
+        "presiunetext": "1011.4 mb, stationara",
         "tempapa": "indisponibil",
-        "tempe": "21.5",
-        "umezeala": 83,
-        "vant": "1.7 m/s, directia : SSV",
+        "tempe": "21.1",
+        "umezeala": 85,
+        "vant": "0.8 m/s, directia : SV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3575,16 +3575,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "URZICENI",
-        "presiunetext": "1007.0 mb, variabila",
+        "presiunetext": "1007.8 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "20.7",
-        "umezeala": 68,
-        "vant": "1.9 m/s, directia : ENE",
+        "tempe": "20.1",
+        "umezeala": 74,
+        "vant": "1.4 m/s, directia : S",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3599,16 +3599,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "VARADIA DE MURES",
-        "presiunetext": "998.4 mb, in crestere",
+        "presiunetext": "998.3 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "16.1",
-        "umezeala": 77,
-        "vant": "0.4 m/s, directia : NV",
+        "tempe": "15.6",
+        "umezeala": 82,
+        "vant": "calm",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3623,16 +3623,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "ceata",
-        "icon": "29",
-        "nebulozitate": "cer invizibil",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
+        "nebulozitate": "indisponibil",
         "nume": "VARFUL OMU",
-        "presiunetext": "753.9 mb, stationara",
+        "presiunetext": "753.8 mb, in scadere",
         "tempapa": "indisponibil",
         "tempe": "2.8",
         "umezeala": 100,
-        "vant": "8.6 m/s, directia : NV",
+        "vant": "7.1 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3647,16 +3647,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
-        "fenomen_e": "aversa ploaie",
-        "icon": "49",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
+        "fenomen_e": "indisponibil",
+        "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "VASLUI",
-        "presiunetext": "1001.0 mb, in crestere",
+        "presiunetext": "1000.6 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "18.0",
+        "tempe": "17.8",
         "umezeala": 93,
-        "vant": "0.9 m/s, directia : V",
+        "vant": "0.3 m/s, directia : VNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3671,16 +3671,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "VIDELE",
         "presiunetext": "1002.2 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "22.6",
-        "umezeala": 64,
-        "vant": "1.2 m/s, directia : SSV",
+        "tempe": "21.8",
+        "umezeala": 74,
+        "vant": "0.8 m/s, directia : S",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3695,16 +3695,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "VLADEASA 1800",
-        "presiunetext": "817.7 mb, in crestere",
+        "presiunetext": "817.6 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "6.3",
-        "umezeala": 95,
-        "vant": "6.2 m/s, directia : NNV",
+        "tempe": "6.2",
+        "umezeala": 94,
+        "vant": "5.6 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3719,16 +3719,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "VOINEASA",
         "presiunetext": "950.2 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "16.2",
+        "tempe": "15.4",
         "umezeala": 77,
-        "vant": "0.2 m/s, directia : V",
+        "vant": "0.6 m/s, directia : NNE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3743,16 +3743,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "ZALAU",
         "presiunetext": "982.0 mb, in crestere",
         "tempapa": "indisponibil",
-        "tempe": "15.4",
-        "umezeala": 79,
-        "vant": "1.2 m/s, directia : S",
+        "tempe": "15.1",
+        "umezeala": 77,
+        "vant": "1.0 m/s, directia : SSE",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3767,16 +3767,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "ZIMNICEA",
-        "presiunetext": "1010.8 mb, in crestere",
+        "presiunetext": "1010.9 mb, in crestere",
         "tempapa": "indisponibil",
         "tempe": "21.2",
-        "umezeala": 83,
-        "vant": "3.0 m/s, directia : V",
+        "umezeala": 81,
+        "vant": "2.4 m/s, directia : VSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3791,16 +3791,16 @@
         "zoom": 2
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "CONSTANTA - dig",
-        "presiunetext": "1013.2 mb, variabila",
+        "presiunetext": "1013.2 mb, in crestere",
         "tempapa": "indisponibil",
         "tempe": "23.7",
-        "umezeala": 67,
-        "vant": "4.4 m/s, directia : S",
+        "umezeala": 59,
+        "vant": "3.0 m/s, directia : S",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3815,16 +3815,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "STRAJA",
-        "presiunetext": "836.4 mb, variabila",
+        "presiunetext": "835.6 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "9.6",
-        "umezeala": 87,
-        "vant": "8.2 m/s, directia : N",
+        "tempe": "8.7",
+        "umezeala": 90,
+        "vant": "9.1 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3839,16 +3839,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "RANCA",
-        "presiunetext": "843.0 mb, variabila",
+        "presiunetext": "842.2 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "11.0",
-        "umezeala": 64,
-        "vant": "8.3 m/s, directia : NV",
+        "tempe": "10.9",
+        "umezeala": 62,
+        "vant": "14.2 m/s, directia : NV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -3863,16 +3863,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "13-07-2026&nbsp;ora&nbsp;00:00",
+        "actualizat": "13-07-2026&nbsp;ora&nbsp;01:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "AMZACEA",
-        "presiunetext": "1004.2 mb, variabila",
+        "presiunetext": "1003.6 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "21.4",
-        "umezeala": 85,
-        "vant": "2.9 m/s, directia : SSV",
+        "tempe": "19.8",
+        "umezeala": 87,
+        "vant": "1.9 m/s, directia : SV",
         "zapada": "indisponibil"
       },
       "type": "feature"
