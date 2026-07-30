@@ -8,25 +8,16 @@
         "@attributes": {
           "nume": "Arad"
         },
-        "DataPrognozei": "2026-07-29",
+        "DataPrognozei": "2026-07-30",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-07-30"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "36",
-            "temp_min": "15"
-          },
           {
             "@attributes": {
               "data": "2026-07-31"
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
-            "temp_max": "37",
-            "temp_min": "18"
+            "temp_max": "38",
+            "temp_min": "19"
           },
           {
             "@attributes": {
@@ -34,8 +25,8 @@
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
-            "temp_max": "38",
-            "temp_min": "18"
+            "temp_max": "39",
+            "temp_min": "20"
           },
           {
             "@attributes": {
@@ -43,7 +34,7 @@
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
-            "temp_max": "38",
+            "temp_max": "40",
             "temp_min": "20"
           },
           {
@@ -54,6 +45,15 @@
             "fenomen_simbol": "1100",
             "temp_max": "38",
             "temp_min": "20"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-04"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "39",
+            "temp_min": "20"
           }
         ]
       },
@@ -61,17 +61,8 @@
         "@attributes": {
           "nume": "Botosani"
         },
-        "DataPrognozei": "2026-07-29",
+        "DataPrognozei": "2026-07-30",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-07-30"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "29",
-            "temp_min": "14"
-          },
           {
             "@attributes": {
               "data": "2026-07-31"
@@ -97,7 +88,7 @@
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
             "temp_max": "35",
-            "temp_min": "17"
+            "temp_min": "18"
           },
           {
             "@attributes": {
@@ -105,8 +96,17 @@
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
+            "temp_max": "34",
+            "temp_min": "19"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-04"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
             "temp_max": "35",
-            "temp_min": "17"
+            "temp_min": "18"
           }
         ]
       },
@@ -114,24 +114,15 @@
         "@attributes": {
           "nume": "Bucuresti"
         },
-        "DataPrognozei": "2026-07-29",
+        "DataPrognozei": "2026-07-30",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-07-30"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "33",
-            "temp_min": "18"
-          },
           {
             "@attributes": {
               "data": "2026-07-31"
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
-            "temp_max": "33",
+            "temp_max": "34",
             "temp_min": "18"
           },
           {
@@ -149,16 +140,25 @@
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
-            "temp_max": "35",
+            "temp_max": "34",
             "temp_min": "19"
           },
           {
             "@attributes": {
               "data": "2026-08-03"
             },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
             "temp_max": "34",
+            "temp_min": "19"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-04"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "36",
             "temp_min": "19"
           }
         ]
@@ -167,24 +167,15 @@
         "@attributes": {
           "nume": "Cluj-Napoca"
         },
-        "DataPrognozei": "2026-07-29",
+        "DataPrognozei": "2026-07-30",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-07-30"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "31",
-            "temp_min": "13"
-          },
           {
             "@attributes": {
               "data": "2026-07-31"
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
-            "temp_max": "35",
+            "temp_max": "33",
             "temp_min": "16"
           },
           {
@@ -193,8 +184,8 @@
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
-            "temp_max": "36",
-            "temp_min": "16"
+            "temp_max": "35",
+            "temp_min": "17"
           },
           {
             "@attributes": {
@@ -202,8 +193,8 @@
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
-            "temp_max": "36",
-            "temp_min": "17"
+            "temp_max": "35",
+            "temp_min": "18"
           },
           {
             "@attributes": {
@@ -211,8 +202,17 @@
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
-            "temp_max": "33",
-            "temp_min": "17"
+            "temp_max": "35",
+            "temp_min": "18"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-04"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "34",
+            "temp_min": "18"
           }
         ]
       },
@@ -220,17 +220,8 @@
         "@attributes": {
           "nume": "Constanta"
         },
-        "DataPrognozei": "2026-07-29",
+        "DataPrognozei": "2026-07-30",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-07-30"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "27",
-            "temp_min": "19"
-          },
           {
             "@attributes": {
               "data": "2026-07-31"
@@ -238,7 +229,7 @@
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
             "temp_max": "27",
-            "temp_min": "19"
+            "temp_min": "21"
           },
           {
             "@attributes": {
@@ -247,7 +238,7 @@
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
             "temp_max": "28",
-            "temp_min": "20"
+            "temp_min": "21"
           },
           {
             "@attributes": {
@@ -255,17 +246,26 @@
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
-            "temp_max": "29",
-            "temp_min": "20"
+            "temp_max": "28",
+            "temp_min": "22"
           },
           {
             "@attributes": {
               "data": "2026-08-03"
             },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
             "temp_max": "30",
-            "temp_min": "20"
+            "temp_min": "23"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-04"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "30",
+            "temp_min": "23"
           }
         ]
       },
@@ -273,17 +273,114 @@
         "@attributes": {
           "nume": "Craiova"
         },
-        "DataPrognozei": "2026-07-29",
+        "DataPrognozei": "2026-07-30",
         "prognoza": [
           {
             "@attributes": {
-              "data": "2026-07-30"
+              "data": "2026-07-31"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "34",
+            "temp_min": "19"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-01"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "34",
+            "temp_min": "19"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-02"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "35",
+            "temp_min": "19"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-03"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "35",
+            "temp_min": "19"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-04"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "35",
+            "temp_min": "19"
+          }
+        ]
+      },
+      {
+        "@attributes": {
+          "nume": "Iasi"
+        },
+        "DataPrognozei": "2026-07-30",
+        "prognoza": [
+          {
+            "@attributes": {
+              "data": "2026-07-31"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "32",
+            "temp_min": "16"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-01"
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
             "temp_max": "34",
             "temp_min": "17"
           },
+          {
+            "@attributes": {
+              "data": "2026-08-02"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "35",
+            "temp_min": "18"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-03"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "35",
+            "temp_min": "18"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-04"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "35",
+            "temp_min": "19"
+          }
+        ]
+      },
+      {
+        "@attributes": {
+          "nume": "Rm. Valcea"
+        },
+        "DataPrognozei": "2026-07-30",
+        "prognoza": [
           {
             "@attributes": {
               "data": "2026-07-31"
@@ -309,7 +406,7 @@
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
             "temp_max": "34",
-            "temp_min": "18"
+            "temp_min": "19"
           },
           {
             "@attributes": {
@@ -318,32 +415,32 @@
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
             "temp_max": "34",
-            "temp_min": "18"
+            "temp_min": "19"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-04"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "35",
+            "temp_min": "19"
           }
         ]
       },
       {
         "@attributes": {
-          "nume": "Iasi"
+          "nume": "Sibiu"
         },
-        "DataPrognozei": "2026-07-29",
+        "DataPrognozei": "2026-07-30",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-07-30"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "30",
-            "temp_min": "14"
-          },
           {
             "@attributes": {
               "data": "2026-07-31"
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
-            "temp_max": "31",
+            "temp_max": "34",
             "temp_min": "15"
           },
           {
@@ -352,132 +449,35 @@
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
-            "temp_max": "34",
-            "temp_min": "17"
-          },
-          {
-            "@attributes": {
-              "data": "2026-08-02"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
             "temp_max": "35",
-            "temp_min": "19"
-          },
-          {
-            "@attributes": {
-              "data": "2026-08-03"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "35",
-            "temp_min": "17"
-          }
-        ]
-      },
-      {
-        "@attributes": {
-          "nume": "Rm. Valcea"
-        },
-        "DataPrognozei": "2026-07-29",
-        "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-07-30"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "35",
-            "temp_min": "17"
-          },
-          {
-            "@attributes": {
-              "data": "2026-07-31"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "35",
-            "temp_min": "19"
-          },
-          {
-            "@attributes": {
-              "data": "2026-08-01"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "35",
-            "temp_min": "19"
-          },
-          {
-            "@attributes": {
-              "data": "2026-08-02"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "36",
-            "temp_min": "19"
-          },
-          {
-            "@attributes": {
-              "data": "2026-08-03"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "35",
-            "temp_min": "18"
-          }
-        ]
-      },
-      {
-        "@attributes": {
-          "nume": "Sibiu"
-        },
-        "DataPrognozei": "2026-07-29",
-        "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-07-30"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "33",
-            "temp_min": "13"
-          },
-          {
-            "@attributes": {
-              "data": "2026-07-31"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "35",
-            "temp_min": "14"
-          },
-          {
-            "@attributes": {
-              "data": "2026-08-01"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "36",
-            "temp_min": "14"
-          },
-          {
-            "@attributes": {
-              "data": "2026-08-02"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "36",
             "temp_min": "16"
           },
           {
             "@attributes": {
+              "data": "2026-08-02"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "36",
+            "temp_min": "17"
+          },
+          {
+            "@attributes": {
               "data": "2026-08-03"
             },
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
-            "temp_max": "33",
-            "temp_min": "16"
+            "temp_max": "35",
+            "temp_min": "17"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-04"
+            },
+            "fenomen_descriere": "Senin",
+            "fenomen_simbol": "1100",
+            "temp_max": "35",
+            "temp_min": "17"
           }
         ]
       },
@@ -485,17 +485,8 @@
         "@attributes": {
           "nume": "Sulina"
         },
-        "DataPrognozei": "2026-07-29",
+        "DataPrognozei": "2026-07-30",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-07-30"
-            },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "26",
-            "temp_min": "20"
-          },
           {
             "@attributes": {
               "data": "2026-07-31"
@@ -512,7 +503,7 @@
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
             "temp_max": "27",
-            "temp_min": "20"
+            "temp_min": "21"
           },
           {
             "@attributes": {
@@ -521,16 +512,25 @@
             "fenomen_descriere": "Senin",
             "fenomen_simbol": "1100",
             "temp_max": "27",
-            "temp_min": "21"
+            "temp_min": "22"
           },
           {
             "@attributes": {
               "data": "2026-08-03"
             },
-            "fenomen_descriere": "Senin",
-            "fenomen_simbol": "1100",
-            "temp_max": "27",
-            "temp_min": "20"
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "28",
+            "temp_min": "23"
+          },
+          {
+            "@attributes": {
+              "data": "2026-08-04"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "29",
+            "temp_min": "23"
           }
         ]
       }
