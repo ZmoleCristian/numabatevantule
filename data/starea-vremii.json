@@ -3095,16 +3095,16 @@
         "zoom": 1
       },
       "properties": {
-        "actualizat": "11-08-2026&nbsp;ora&nbsp;13:00",
+        "actualizat": "11-08-2026&nbsp;ora&nbsp;14:00",
         "fenomen_e": "indisponibil",
         "icon": "2",
         "nebulozitate": "cer senin",
         "nume": "SULINA",
-        "presiunetext": "1013.5 mb, stationara",
+        "presiunetext": "1013.4 mb, in scadere",
         "tempapa": "indisponibil",
-        "tempe": "26.4",
-        "umezeala": 60,
-        "vant": "3.1 m/s, directia : ENE",
+        "tempe": "27.6",
+        "umezeala": 52,
+        "vant": "2.3 m/s, directia : E",
         "zapada": "indisponibil"
       },
       "type": "feature"
