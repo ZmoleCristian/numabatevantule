@@ -159,16 +159,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "18-08-2026&nbsp;ora&nbsp;04:00",
+        "actualizat": "18-08-2026&nbsp;ora&nbsp;06:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BACLES",
-        "presiunetext": "972.0 mb, in scadere",
+        "presiunetext": "971.8 mb, in scadere",
         "tempapa": "indisponibil",
-        "tempe": "20.3",
-        "umezeala": 41,
-        "vant": "1.9 m/s, directia : NNE",
+        "tempe": "21.2",
+        "umezeala": 44,
+        "vant": "2.1 m/s, directia : N",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -981,8 +981,8 @@
       "properties": {
         "actualizat": "18-08-2026&nbsp;ora&nbsp;06:00",
         "fenomen_e": "indisponibil",
-        "icon": "84",
-        "nebulozitate": "indisponibil",
+        "icon": "3",
+        "nebulozitate": "cer partial noros",
         "nume": "CEAHLAU TOACA",
         "presiunetext": "806.2 mb, in scadere",
         "tempapa": "indisponibil",
@@ -1341,8 +1341,8 @@
       "properties": {
         "actualizat": "18-08-2026&nbsp;ora&nbsp;06:00",
         "fenomen_e": "indisponibil",
-        "icon": "84",
-        "nebulozitate": "indisponibil",
+        "icon": "3",
+        "nebulozitate": "cer partial noros",
         "nume": "DROBETA TURNU SEVERIN",
         "presiunetext": "998.3 mb, in scadere",
         "tempapa": "indisponibil",
@@ -1607,16 +1607,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "18-08-2026&nbsp;ora&nbsp;05:00",
+        "actualizat": "18-08-2026&nbsp;ora&nbsp;06:00",
         "fenomen_e": "indisponibil",
         "icon": "2",
         "nebulozitate": "cer senin",
         "nume": "GURA PORTITEI",
-        "presiunetext": "1008.8 mb, in scadere",
+        "presiunetext": "1008.3 mb, in scadere",
         "tempapa": "indisponibil",
-        "tempe": "19.4",
-        "umezeala": 93,
-        "vant": "1.9 m/s, directia : VSV",
+        "tempe": "21.0",
+        "umezeala": 85,
+        "vant": "2.9 m/s, directia : SSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1969,8 +1969,8 @@
       "properties": {
         "actualizat": "18-08-2026&nbsp;ora&nbsp;06:00",
         "fenomen_e": "indisponibil",
-        "icon": "84",
-        "nebulozitate": "indisponibil",
+        "icon": "2",
+        "nebulozitate": "cer senin",
         "nume": "MEDGIDIA",
         "presiunetext": "1000.2 mb, in scadere",
         "tempapa": "indisponibil",
@@ -2881,8 +2881,8 @@
       "properties": {
         "actualizat": "18-08-2026&nbsp;ora&nbsp;06:00",
         "fenomen_e": "indisponibil",
-        "icon": "84",
-        "nebulozitate": "indisponibil",
+        "icon": "2",
+        "nebulozitate": "cer senin",
         "nume": "SINAIA 1500",
         "presiunetext": "845.3 mb, in scadere",
         "tempapa": "indisponibil",
