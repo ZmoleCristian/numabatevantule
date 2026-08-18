@@ -1099,16 +1099,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "18-08-2026&nbsp;ora&nbsp;15:00",
-        "fenomen_e": "vizibilitate redusa pacla, praf, fum",
-        "icon": "13",
+        "actualizat": "18-08-2026&nbsp;ora&nbsp;16:00",
+        "fenomen_e": "indisponibil",
+        "icon": "2",
         "nebulozitate": "cer senin",
         "nume": "CORUGEA",
-        "presiunetext": "981.3 mb, in scadere",
+        "presiunetext": "980.9 mb, in scadere",
         "tempapa": "indisponibil",
-        "tempe": "32.2",
-        "umezeala": 24,
-        "vant": "3.2 m/s, directia : SSV",
+        "tempe": "32.9",
+        "umezeala": 34,
+        "vant": "2.9 m/s, directia : SSV",
         "zapada": "indisponibil"
       },
       "type": "feature"
@@ -1197,8 +1197,8 @@
       "properties": {
         "actualizat": "18-08-2026&nbsp;ora&nbsp;16:00",
         "fenomen_e": "indisponibil",
-        "icon": "84",
-        "nebulozitate": "indisponibil",
+        "icon": "3",
+        "nebulozitate": "cer partial noros",
         "nume": "CURTEA DE ARGES",
         "presiunetext": "954.8 mb, in scadere",
         "tempapa": "indisponibil",
@@ -2929,8 +2929,8 @@
       "properties": {
         "actualizat": "18-08-2026&nbsp;ora&nbsp;16:00",
         "fenomen_e": "indisponibil",
-        "icon": "84",
-        "nebulozitate": "indisponibil",
+        "icon": "5",
+        "nebulozitate": "cer acoperit",
         "nume": "SLATINA",
         "presiunetext": "987.0 mb, in scadere",
         "tempapa": "indisponibil",
