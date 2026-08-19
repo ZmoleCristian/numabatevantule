@@ -159,16 +159,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "19-08-2026&nbsp;ora&nbsp;15:00",
+        "actualizat": "19-08-2026&nbsp;ora&nbsp;16:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "BACLES",
-        "presiunetext": "977.8 mb, in scadere",
+        "presiunetext": "977.3 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "29.3",
-        "umezeala": 30,
-        "vant": "3.9 m/s, directia : V",
+        "tempe": "30.4",
+        "umezeala": 29,
+        "vant": "2.2 m/s, directia : VNV",
         "zapada": "indisponibil"
       },
       "type": "feature"
