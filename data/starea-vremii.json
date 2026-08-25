@@ -1099,16 +1099,16 @@
         "zoom": 0
       },
       "properties": {
-        "actualizat": "25-08-2026&nbsp;ora&nbsp;09:00",
+        "actualizat": "25-08-2026&nbsp;ora&nbsp;10:00",
         "fenomen_e": "indisponibil",
         "icon": "84",
         "nebulozitate": "indisponibil",
         "nume": "CORUGEA",
-        "presiunetext": "992.6 mb, variabila",
+        "presiunetext": "993.0 mb, variabila",
         "tempapa": "indisponibil",
-        "tempe": "22.2",
-        "umezeala": 88,
-        "vant": "5.8 m/s, directia : E",
+        "tempe": "22.6",
+        "umezeala": 83,
+        "vant": "6.9 m/s, directia : E",
         "zapada": "indisponibil"
       },
       "type": "feature"
