@@ -1,17 +1,1 @@
-{
-  "avertizare": {
-    "@attributes": {
-      "catre": "Preşedinţia României, Secretariatul General al Guvernului României, Departamentul pentru Situații de Urgență, Inspectoratul General pentru Situaţii de Urgenţă, Ministerul Mediului, Apelor şi Pădurilor, Ministerul Afacerilor Interne, Ministerul Transporturilor şi Infrastructurii, Ministerul Apărării Naţionale, Ministerul Agriculturii şi Dezvoltării Rurale, C.N.A.I.R, Administraţia Naţională “Apele Române”, S.N.C.F.R , mass-media",
-      "culoare": "",
-      "dataAparitiei": "2026-09-21T21:00",
-      "dataExpirarii": "2026-09-24T10:00",
-      "fenomeneVizate": "conform textului;",
-      "intervalul": "conform textului;",
-      "mesaj": "<p align=\"center\"><span style=\"font-family: verdana, geneva; font-size: small; color: #000000;\"><strong><span lang=\"RO\">INFORMARE METEOROLOGICĂ</span></strong></span></p>\r\n<p align=\"center\"><span style=\"font-family: verdana, geneva; font-size: small; color: #000000;\"><strong><span lang=\"RO\">Interval de valabilitate: 21 septembrie, ora 10 &ndash; 24 septembrie, ora 10<br />Fenomene vizate: intensificări ale v&acirc;ntului, răcire accentuată,<br /> ploi moderate cantitativ;<br />Zone afectate: conform textului</span></strong></span></p>\r\n<p style=\"text-align: justify;\" align=\"center\"><span style=\"font-family: verdana, geneva; font-size: small; color: #000000;\">&nbsp; &nbsp; &nbsp; Temporar v&acirc;ntul va avea intensificări, luni (21 septembrie) &icirc;n cea mai mare parte a țării, iar marți (22 septembrie) &icirc;n Oltenia, local &icirc;n Banat, Muntenia și la munte. Vor fi viteze &icirc;n general de 45...55 km/h, iar &icirc;n zona montană &icirc;naltă de 70...80 km/h.</span><br /><span style=\"font-family: verdana, geneva; font-size: small; color: #000000;\">&nbsp; &nbsp; &nbsp; Valorile termice vor scădea accentuat (&icirc;n medie cu 8...12 grade), vremea devenind rece pentru această perioadă, luni &icirc;n jumătatea de nord a teritoriului, iar marți și miercuri și &icirc;n cea de sud. &Icirc;n general, maximele termice se vor situa &icirc;ntre 14 și 21 de grade, iar minimele din nopțile de marți spre miercuri (22/23 septembrie) și miercuri spre joi (23/24 septembrie) vor fi cuprinse &icirc;ntre 2 și 11 grade, cu cele mai scăzute valori &icirc;n depresiuni, unde vor fi condiții pentru brumă.</span><br /><span style=\"font-family: verdana, geneva; font-size: small; color: #000000;\">&nbsp; &nbsp; &nbsp; Vor fi perioade cu averse, temporar &icirc;nsoțite de descărcări electrice, luni &icirc;n nord, centru, est și sud-est, apoi și &icirc;n rest. Izolat va cădea grindină, &icirc;n seara zilei de luni &icirc;n special &icirc;n sud-est, iar marți după-amiază &icirc;n sud. Se vor acumula cantități de apă de 10...15 l/mp și pe arii restr&acirc;nse de 20...30 l/mp. Din noaptea de luni spre marți, la munte, &icirc;n special la altitudini de peste 1700 m, trecător vor fi și precipitații sub formă de măzăriche, lapoviță și ninsoare.</span></p>",
-      "numeCuloare": "",
-      "numeTipMesaj": "Informare meteorologică",
-      "tipMesaj": "2",
-      "zonaAfectata": "conform textului;"
-    }
-  }
-}
+"Nu exista date"
