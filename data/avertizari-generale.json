@@ -1,1 +1,17 @@
-"Nu exista date"
+{
+  "avertizare": {
+    "@attributes": {
+      "catre": "Preşedinţia României, Secretariatul General al Guvernului României, Departamentul pentru Situații de Urgență, Inspectoratul General pentru Situaţii de Urgenţă, Ministerul Mediului, Apelor şi Pădurilor, Ministerul Afacerilor Interne, Ministerul Transporturilor şi Infrastructurii, Ministerul Apărării Naţionale, Ministerul Agriculturii şi Dezvoltării Rurale, C.N.A.I.R, Administraţia Naţională “Apele Române”, S.N.C.F.R , mass-media",
+      "culoare": "",
+      "dataAparitiei": "2026-10-10T10:00",
+      "dataExpirarii": "2026-10-13T10:00",
+      "fenomeneVizate": "ploi moderate cantitativ, precipitații mixte la altitudini mai mari de 1500 m, intensificări ale vântului;",
+      "intervalul": "11 octombrie, ora 03 – 13 octombrie, ora 10;",
+      "mesaj": "<p style=\"text-align: center;\" align=\"center\"><span style=\"color: #000000; font-family: verdana, geneva; font-size: small;\"><strong><span lang=\"RO\"><span style=\"font-size: medium;\">INFORMARE METEOROLOGICĂ<br /></span><br /> Interval de valabilitate: 11 octombrie, ora 03 &ndash; 13 octombrie, ora 10<br /> Fenomene vizate: ploi moderate cantitativ, precipitații mixte la altitudini mai mari de 1500 m, intensificări ale v&acirc;ntului <br /> Zone afectate: conform textului</span></strong></span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-size: small; font-family: verdana, geneva; color: #000000;\" lang=\"RO\">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-size: small; font-family: verdana, geneva; color: #000000;\" lang=\"RO\">&nbsp;&nbsp;&nbsp;&nbsp; &Icirc;n intervalul menționat temporar va ploua &icirc;n toate regiunile. Duminică (11 octombrie) ploile se vor extinde treptat dinspre vest și vor cuprinde cea mai mare parte a țării, iar luni (12 octombrie) vor fi cu precădere &icirc;n jumătatea de sud-est a teritoriului. Acestea vor avea și caracter de aversă, iar pe arii restr&acirc;nse vor fi &icirc;nsoțite de descărcări electrice. La munte, cu precădere &icirc;n Carpații Meridionali, la altitudini mai mari de 1500 m, luni (12 octombrie) vor fi precipitații sub formă de lapoviță și ninsoare. <br /> &nbsp;&nbsp;&nbsp;&nbsp; Cantitățile de apă acumulate vor fi &icirc;n general de 15...20 l/mp și pe alocuri vor depăși 30 l/mp.<br />&nbsp; &nbsp; &nbsp;Temporar vor fi intensificări ale v&acirc;ntului, cu viteze la rafală &icirc;n general de 45...50 km/h, local &icirc;n regiunile estice și sud-estice. La munte, cu precădere &icirc;n Carpații Meridionali și de Curbură, la altitudini mari vor fi rafale de 70...90 km/h.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-size: small; font-family: verdana, geneva; color: #000000;\" lang=\"RO\">&nbsp;</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-size: small; font-family: verdana, geneva; color: #000000;\" lang=\"RO\">&nbsp;&nbsp; <em>Notă: Vremea se va răci duminică (11 octombrie) &icirc;n regiunile vestice și nord-vestice, iar de luni (12 octombrie) și &icirc;n restul zonelor.</em></span></p>",
+      "numeCuloare": "",
+      "numeTipMesaj": "Informare meteorologică",
+      "tipMesaj": "2",
+      "zonaAfectata": "conform textului;"
+    }
+  }
+}
