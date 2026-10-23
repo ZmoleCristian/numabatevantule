@@ -8,123 +8,8 @@
         "@attributes": {
           "nume": "Arad"
         },
-        "DataPrognozei": "2026-10-22",
+        "DataPrognozei": "2026-10-23",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-10-23"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "17",
-            "temp_min": "5"
-          },
-          {
-            "@attributes": {
-              "data": "2026-10-24"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "21",
-            "temp_min": "4"
-          },
-          {
-            "@attributes": {
-              "data": "2026-10-25"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "17",
-            "temp_min": "5"
-          },
-          {
-            "@attributes": {
-              "data": "2026-10-26"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "18",
-            "temp_min": "7"
-          },
-          {
-            "@attributes": {
-              "data": "2026-10-27"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "19",
-            "temp_min": "5"
-          }
-        ]
-      },
-      {
-        "@attributes": {
-          "nume": "Botosani"
-        },
-        "DataPrognozei": "2026-10-22",
-        "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-10-23"
-            },
-            "fenomen_descriere": "Noros",
-            "fenomen_simbol": "3700",
-            "temp_max": "14",
-            "temp_min": "8"
-          },
-          {
-            "@attributes": {
-              "data": "2026-10-24"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "16",
-            "temp_min": "6"
-          },
-          {
-            "@attributes": {
-              "data": "2026-10-25"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "16",
-            "temp_min": "5"
-          },
-          {
-            "@attributes": {
-              "data": "2026-10-26"
-            },
-            "fenomen_descriere": "Variabil cu ploaie slabă",
-            "fenomen_simbol": "1460",
-            "temp_max": "17",
-            "temp_min": "7"
-          },
-          {
-            "@attributes": {
-              "data": "2026-10-27"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "15",
-            "temp_min": "7"
-          }
-        ]
-      },
-      {
-        "@attributes": {
-          "nume": "Bucuresti"
-        },
-        "DataPrognozei": "2026-10-22",
-        "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-10-23"
-            },
-            "fenomen_descriere": "Noros cu ploaie moderata",
-            "fenomen_simbol": "3762",
-            "temp_max": "16",
-            "temp_min": "11"
-          },
           {
             "@attributes": {
               "data": "2026-10-24"
@@ -132,59 +17,6 @@
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
             "temp_max": "19",
-            "temp_min": "8"
-          },
-          {
-            "@attributes": {
-              "data": "2026-10-25"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "17",
-            "temp_min": "8"
-          },
-          {
-            "@attributes": {
-              "data": "2026-10-26"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "19",
-            "temp_min": "8"
-          },
-          {
-            "@attributes": {
-              "data": "2026-10-27"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "19",
-            "temp_min": "8"
-          }
-        ]
-      },
-      {
-        "@attributes": {
-          "nume": "Cluj-Napoca"
-        },
-        "DataPrognozei": "2026-10-22",
-        "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-10-23"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "15",
-            "temp_min": "8"
-          },
-          {
-            "@attributes": {
-              "data": "2026-10-24"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "17",
             "temp_min": "3"
           },
           {
@@ -202,8 +34,61 @@
             },
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
+            "temp_max": "16",
+            "temp_min": "7"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-27"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
             "temp_max": "15",
-            "temp_min": "5"
+            "temp_min": "3"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-28"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "17",
+            "temp_min": "3"
+          }
+        ]
+      },
+      {
+        "@attributes": {
+          "nume": "Botosani"
+        },
+        "DataPrognozei": "2026-10-23",
+        "prognoza": [
+          {
+            "@attributes": {
+              "data": "2026-10-24"
+            },
+            "fenomen_descriere": "Noros cu ploaie",
+            "fenomen_simbol": "3760",
+            "temp_max": "12",
+            "temp_min": "7"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-25"
+            },
+            "fenomen_descriere": "Noros",
+            "fenomen_simbol": "3700",
+            "temp_max": "15",
+            "temp_min": "6"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-26"
+            },
+            "fenomen_descriere": "Noros cu ploaie",
+            "fenomen_simbol": "3760",
+            "temp_max": "15",
+            "temp_min": "6"
           },
           {
             "@attributes": {
@@ -212,7 +97,122 @@
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
             "temp_max": "14",
-            "temp_min": "4"
+            "temp_min": "5"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-28"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "15",
+            "temp_min": "3"
+          }
+        ]
+      },
+      {
+        "@attributes": {
+          "nume": "Bucuresti"
+        },
+        "DataPrognozei": "2026-10-23",
+        "prognoza": [
+          {
+            "@attributes": {
+              "data": "2026-10-24"
+            },
+            "fenomen_descriere": "Variabil cu ceata",
+            "fenomen_simbol": "1440",
+            "temp_max": "18",
+            "temp_min": "8"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-25"
+            },
+            "fenomen_descriere": "Variabil cu ceata",
+            "fenomen_simbol": "1440",
+            "temp_max": "19",
+            "temp_min": "8"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-26"
+            },
+            "fenomen_descriere": "Variabil cu ceata",
+            "fenomen_simbol": "1440",
+            "temp_max": "19",
+            "temp_min": "8"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-27"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "17",
+            "temp_min": "9"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-28"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "18",
+            "temp_min": "7"
+          }
+        ]
+      },
+      {
+        "@attributes": {
+          "nume": "Cluj-Napoca"
+        },
+        "DataPrognozei": "2026-10-23",
+        "prognoza": [
+          {
+            "@attributes": {
+              "data": "2026-10-24"
+            },
+            "fenomen_descriere": "Variabil cu ceata",
+            "fenomen_simbol": "1440",
+            "temp_max": "13",
+            "temp_min": "3"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-25"
+            },
+            "fenomen_descriere": "Variabil cu ceata",
+            "fenomen_simbol": "1440",
+            "temp_max": "14",
+            "temp_min": "3"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-26"
+            },
+            "fenomen_descriere": "Noros",
+            "fenomen_simbol": "3700",
+            "temp_max": "14",
+            "temp_min": "5"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-27"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "13",
+            "temp_min": "2"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-28"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "15",
+            "temp_min": "2"
           }
         ]
       },
@@ -220,52 +220,52 @@
         "@attributes": {
           "nume": "Constanta"
         },
-        "DataPrognozei": "2026-10-22",
+        "DataPrognozei": "2026-10-23",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-10-23"
-            },
-            "fenomen_descriere": "Noros cu ploaie si descarcari electrice",
-            "fenomen_simbol": "376213",
-            "temp_max": "16",
-            "temp_min": "14"
-          },
           {
             "@attributes": {
               "data": "2026-10-24"
             },
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
-            "temp_max": "17",
-            "temp_min": "10"
+            "temp_max": "16",
+            "temp_min": "11"
           },
           {
             "@attributes": {
               "data": "2026-10-25"
             },
-            "fenomen_descriere": "Variabil cu ploaie slabă",
-            "fenomen_simbol": "1460",
-            "temp_max": "18",
-            "temp_min": "14"
+            "fenomen_descriere": "Noros",
+            "fenomen_simbol": "3700",
+            "temp_max": "16",
+            "temp_min": "12"
           },
           {
             "@attributes": {
               "data": "2026-10-26"
             },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "18",
-            "temp_min": "13"
+            "fenomen_descriere": "Variabil cu ceata",
+            "fenomen_simbol": "1440",
+            "temp_max": "15",
+            "temp_min": "11"
           },
           {
             "@attributes": {
               "data": "2026-10-27"
             },
-            "fenomen_descriere": "Variabil cu ploaie slabă",
-            "fenomen_simbol": "1460",
-            "temp_max": "18",
-            "temp_min": "13"
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "17",
+            "temp_min": "11"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-28"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "16",
+            "temp_min": "10"
           }
         ]
       },
@@ -273,25 +273,16 @@
         "@attributes": {
           "nume": "Craiova"
         },
-        "DataPrognozei": "2026-10-22",
+        "DataPrognozei": "2026-10-23",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-10-23"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "19",
-            "temp_min": "10"
-          },
           {
             "@attributes": {
               "data": "2026-10-24"
             },
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
-            "temp_max": "20",
-            "temp_min": "6"
+            "temp_max": "18",
+            "temp_min": "5"
           },
           {
             "@attributes": {
@@ -299,8 +290,8 @@
             },
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
-            "temp_max": "20",
-            "temp_min": "8"
+            "temp_max": "19",
+            "temp_min": "7"
           },
           {
             "@attributes": {
@@ -308,8 +299,8 @@
             },
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
-            "temp_max": "20",
-            "temp_min": "6"
+            "temp_max": "19",
+            "temp_min": "7"
           },
           {
             "@attributes": {
@@ -317,8 +308,17 @@
             },
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
-            "temp_max": "20",
+            "temp_max": "16",
             "temp_min": "7"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-28"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "17",
+            "temp_min": "6"
           }
         ]
       },
@@ -326,41 +326,32 @@
         "@attributes": {
           "nume": "Iasi"
         },
-        "DataPrognozei": "2026-10-22",
+        "DataPrognozei": "2026-10-23",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-10-23"
-            },
-            "fenomen_descriere": "Noros cu ploaie",
-            "fenomen_simbol": "3760",
-            "temp_max": "13",
-            "temp_min": "11"
-          },
           {
             "@attributes": {
               "data": "2026-10-24"
             },
-            "fenomen_descriere": "Variabil cu ploaie slabă",
-            "fenomen_simbol": "1460",
-            "temp_max": "16",
+            "fenomen_descriere": "Noros cu ploaie",
+            "fenomen_simbol": "3760",
+            "temp_max": "12",
             "temp_min": "8"
           },
           {
             "@attributes": {
               "data": "2026-10-25"
             },
-            "fenomen_descriere": "Variabil cu ploaie slabă",
-            "fenomen_simbol": "1460",
+            "fenomen_descriere": "Noros",
+            "fenomen_simbol": "3700",
             "temp_max": "16",
-            "temp_min": "6"
+            "temp_min": "9"
           },
           {
             "@attributes": {
               "data": "2026-10-26"
             },
-            "fenomen_descriere": "Variabil cu ploaie slabă",
-            "fenomen_simbol": "1460",
+            "fenomen_descriere": "Noros",
+            "fenomen_simbol": "3700",
             "temp_max": "17",
             "temp_min": "8"
           },
@@ -371,7 +362,16 @@
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
             "temp_max": "15",
-            "temp_min": "7"
+            "temp_min": "6"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-28"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "14",
+            "temp_min": "3"
           }
         ]
       },
@@ -379,17 +379,8 @@
         "@attributes": {
           "nume": "Rm. Valcea"
         },
-        "DataPrognozei": "2026-10-22",
+        "DataPrognozei": "2026-10-23",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-10-23"
-            },
-            "fenomen_descriere": "Variabil cu ploaie slabă",
-            "fenomen_simbol": "1460",
-            "temp_max": "20",
-            "temp_min": "10"
-          },
           {
             "@attributes": {
               "data": "2026-10-24"
@@ -397,7 +388,7 @@
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
             "temp_max": "20",
-            "temp_min": "7"
+            "temp_min": "5"
           },
           {
             "@attributes": {
@@ -405,8 +396,8 @@
             },
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
-            "temp_max": "20",
-            "temp_min": "6"
+            "temp_max": "19",
+            "temp_min": "5"
           },
           {
             "@attributes": {
@@ -421,9 +412,18 @@
             "@attributes": {
               "data": "2026-10-27"
             },
+            "fenomen_descriere": "Noros",
+            "fenomen_simbol": "3700",
+            "temp_max": "15",
+            "temp_min": "5"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-28"
+            },
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
-            "temp_max": "20",
+            "temp_max": "17",
             "temp_min": "7"
           }
         ]
@@ -432,25 +432,16 @@
         "@attributes": {
           "nume": "Sibiu"
         },
-        "DataPrognozei": "2026-10-22",
+        "DataPrognozei": "2026-10-23",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-10-23"
-            },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "15",
-            "temp_min": "8"
-          },
           {
             "@attributes": {
               "data": "2026-10-24"
             },
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
-            "temp_max": "18",
-            "temp_min": "3"
+            "temp_max": "16",
+            "temp_min": "2"
           },
           {
             "@attributes": {
@@ -465,9 +456,9 @@
             "@attributes": {
               "data": "2026-10-26"
             },
-            "fenomen_descriere": "Variabil / temporar noros",
-            "fenomen_simbol": "1400",
-            "temp_max": "17",
+            "fenomen_descriere": "Noros",
+            "fenomen_simbol": "3700",
+            "temp_max": "16",
             "temp_min": "4"
           },
           {
@@ -476,8 +467,17 @@
             },
             "fenomen_descriere": "Variabil / temporar noros",
             "fenomen_simbol": "1400",
-            "temp_max": "16",
-            "temp_min": "4"
+            "temp_max": "13",
+            "temp_min": "3"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-28"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "15",
+            "temp_min": "1"
           }
         ]
       },
@@ -485,52 +485,52 @@
         "@attributes": {
           "nume": "Sulina"
         },
-        "DataPrognozei": "2026-10-22",
+        "DataPrognozei": "2026-10-23",
         "prognoza": [
-          {
-            "@attributes": {
-              "data": "2026-10-23"
-            },
-            "fenomen_descriere": "Noros cu ploaie",
-            "fenomen_simbol": "3760",
-            "temp_max": "17",
-            "temp_min": "15"
-          },
           {
             "@attributes": {
               "data": "2026-10-24"
             },
-            "fenomen_descriere": "Variabil cu ploaie slabă",
-            "fenomen_simbol": "1460",
-            "temp_max": "17",
+            "fenomen_descriere": "Noros cu ploaie",
+            "fenomen_simbol": "3760",
+            "temp_max": "15",
             "temp_min": "11"
           },
           {
             "@attributes": {
               "data": "2026-10-25"
             },
-            "fenomen_descriere": "Variabil cu ploaie slabă",
-            "fenomen_simbol": "1460",
-            "temp_max": "18",
-            "temp_min": "14"
+            "fenomen_descriere": "Noros",
+            "fenomen_simbol": "3700",
+            "temp_max": "16",
+            "temp_min": "12"
           },
           {
             "@attributes": {
               "data": "2026-10-26"
             },
-            "fenomen_descriere": "Variabil cu ploaie slabă",
-            "fenomen_simbol": "1460",
+            "fenomen_descriere": "Variabil cu ceata",
+            "fenomen_simbol": "1440",
             "temp_max": "17",
-            "temp_min": "13"
+            "temp_min": "11"
           },
           {
             "@attributes": {
               "data": "2026-10-27"
             },
-            "fenomen_descriere": "Variabil cu ploaie slabă",
-            "fenomen_simbol": "1460",
-            "temp_max": "16",
-            "temp_min": "12"
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "15",
+            "temp_min": "11"
+          },
+          {
+            "@attributes": {
+              "data": "2026-10-28"
+            },
+            "fenomen_descriere": "Variabil / temporar noros",
+            "fenomen_simbol": "1400",
+            "temp_max": "14",
+            "temp_min": "9"
           }
         ]
       }
